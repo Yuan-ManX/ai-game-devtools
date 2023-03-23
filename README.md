@@ -1,6 +1,6 @@
-# Game-AI-Toolkit
+# Game-AI-World 🌌
 
-Here we will keep track of the Game AI Development Toolkit, including programming, animation, effects, modeling, audio, music and more.
+Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
 
 ## Contents
 
