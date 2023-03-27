@@ -1,4 +1,4 @@
-# Game-AI-World 🎮
+# Game-AI-World 🔥
 
 Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
 
@@ -58,6 +58,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)                          | Generating Music From Text.                                                                                                                                                              |              |   Music   |
 | [Riffusion App](https://github.com/riffusion/riffusion-app)                                    | Riffusion is an app for real-time music generation with stable diffusion.                                                                                                                |              |   Music   |
 | [Jukebox](https://github.com/openai/jukebox)                                                   | A Generative Model for Music.                                                                                                                                                            |              |   Music   |
+| [MuseNet](https://openai.com/research/musenet)                                                 | A deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles.                       |              |   Music   |
 | [Mubert](https://mubert.com/)                                                                  | AI Generative Music.                                                                                                                                                                     |              |   Music   |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                    |              |   Voice   |
 | [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                 |              |   Voice   |
