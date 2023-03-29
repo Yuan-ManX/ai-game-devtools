@@ -1,4 +1,4 @@
-# Game-AI-Development-Community 🔥
+# Game-AI-Development-Community (GADC) 🔥
 
 Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
 
