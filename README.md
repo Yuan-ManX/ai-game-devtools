@@ -2,7 +2,23 @@
 
 Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
 
-## Tool
+* [Tool](#tool)
+* [Code](#code)
+* [Framework](#framework)
+* [Writer](#writer)
+* [Image](#image)
+* [Texture](#texture)
+* [Shader](#shader)
+* [3D Model](#model)
+* [Avatar](#avatar)
+* [Animation](#animation)
+* [Video](#video)
+* [Audio](#audio)
+* [Music](#music)
+* [Voice](#voice)
+* [Speech](#speech)
+
+## <span id="tool">Tool</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -22,7 +38,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                   |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
 
-## Code
+## <span id="code">Code</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -30,14 +46,14 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Cursor](https://www.cursor.so/)                                                               | Write, edit, and chat about your code with GPT-4 in a new type of editor.                                                                                                                      |              |   Code   |
 | [OpenAI Codex](https://openai.com/blog/openai-codex)                                           | OpenAI Codex is a descendant of GPT-3.                                                                                                                                                         |              |   Code   |
 
-## Framework
+## <span id="framework">Framework</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [GameAISDK](https://github.com/Tencent/GameAISDK)                                              | Image-based game AI automation framework.                                                                                                                                                      |              | Framework |
 | [behaviac](https://github.com/Tencent/behaviac)                                                | Behaviac is a framework of the game AI development.                                                                                                                                            |              | Framework |
 
-## Writer
+## <span id="writer">Writer</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -45,7 +61,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                   |              |  Writer  |
 | [AI-Writer](https://github.com/BlinkDL/AI-Writer)                                              | AI writes novels, generates fantasy and romance web articles, etc. Chinese pre-trained generative model.                                                                                       |              |  Writer  |
 
-## Image
+## <span id="image">Image</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -71,20 +87,20 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Plask](https://plask.ai/)                                                                     | AI image generation in the cloud.                                                                                                                                                              |              |   Image   |
 | [MetaShoot](https://metashoot.vinzi.xyz/)                                                      | MetaShoot is a digital twin of a photo studio, developed as a plugin for Unreal Engine that gives any creator the ability to produce highly realistic renders in the easiest and quickest way. | Unreal Engine |   Image   |
 
-## Texture
+## <span id="texture">Texture</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Polycam](https://poly.cam/material-generator)                                                 | Create your own 3D textures just by typing.                                                                                                                                                    |              |  Texture  |
 | [Dream Textures](https://github.com/carson-katri/dream-textures)                               | Stable Diffusion built-in to Blender. Create textures, concept art, background assets, and more with a simple text prompt.                                                                     |    Blender    |  Texture  |
 
-## Shader
+## <span id="shader">Shader</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [AI Shader](https://github.com/keijiro/AIShader)                                               | ChatGPT-powered shader generator for Unity.                                                                                                                                                    |     Unity     |  Shader  |
 
-## 3D Model
+## <span id="model">3D Model</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -103,19 +119,19 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Spline AI](https://spline.design/ai)                                                          | The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.                                                                                      |              |   Model   |
 | [Luma AI](https://lumalabs.ai/)                                                                | Capture in lifelike 3D. Unmatched photorealism, reflections, and details. The future of VFX is now, for everyone!                                                                              |              |   Model   |
 
-## Avatar
+## <span id="avatar">Avatar</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ChatdollKit](https://github.com/uezo/ChatdollKit)                                             | ChatdollKit enables you to make your 3D model into a chatbot.                                                                                                                                  |     Unity     |  Avatar  |
 
-## Animation
+## <span id="animation">Animation</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [SadTalker](https://github.com/Winfredy/SadTalker)                                             | Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.                                                                                       |              | Animation |
 
-## Video
+## <span id="video">Video</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -129,7 +145,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [EDGE](https://github.com/Stanford-TML/EDGE)                                                   | We introduce EDGE, a powerful method for editable dance generation that is capable of creating realistic, physically-plausible dances while remaining faithful to arbitrary input music.       |              |   Video   |
 | [Pollinations](https://pollinations.ai/c/Video)                                                | Creating gets easy, fast, and fun.                                                                                                                                                             |              |   Video   |
 
-## Audio
+## <span id="audio">Audio</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -138,7 +154,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Make-An-Audio](https://text-to-audio.github.io/)                                              | Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.                                                                                                                                |              |   Audio   |
 | [AudioLDM](https://audioldm.github.io/)                                                        | Text-to-Audio Generation with Latent Diffusion Models.                                                                                                                                         |              |   Audio   |
 
-## Music
+## <span id="music">Music</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -152,14 +168,14 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Amper Music](https://www.shutterstock.com/discover/ampermusic)                                | Custom music generation technology powered by Amper.                                                                                                                                           |              |   Music   |
 | [SoundRaw](https://soundraw.io/)                                                               | AI music generator for creators.                                                                                                                                                               |              |   Music   |
 
-## Voice
+## <span id="voice">Voice</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Voice   |
 | [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                       |              |   Voice   |
 
-## Speech
+## <span id="speech">Speech</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
