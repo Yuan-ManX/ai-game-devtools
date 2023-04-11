@@ -129,6 +129,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                       |              | Animation |
 | [SadTalker](https://github.com/Winfredy/SadTalker)                                             | Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.                                                                                       |              | Animation |
 
 ## <span id="video">Video</span>
