@@ -175,6 +175,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Voice   |
 | [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                       |              |   Voice   |
+| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)                                     | An easy-to-use SVC framework based on VITS.                                                                                                                                       |              |   Voice   |
 
 ## <span id="speech">Speech</span>
 
