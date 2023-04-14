@@ -46,6 +46,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [CodeGeeX](https://github.com/THUDM/CodeGeeX)                                                  | An Open Multilingual Code Generation Model.                                                                                                                                                    |              |   Code   |
 | [Cursor](https://www.cursor.so/)                                                               | Write, edit, and chat about your code with GPT-4 in a new type of editor.                                                                                                                      |              |   Code   |
 | [OpenAI Codex](https://openai.com/blog/openai-codex)                                           | OpenAI Codex is a descendant of GPT-3.                                                                                                                                                         |              |   Code   |
+| [CodeGen](https://github.com/salesforce/CodeGen)                                               | CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.                                                                                    |              |   Code   |
 
 ## <span id="framework">Framework</span>
 
