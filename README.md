@@ -88,6 +88,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Photoroom](https://www.photoroom.com/backgrounds)                                             | AI Background Generator.                                                                                                                                                                       |              |   Image   |
 | [Plask](https://plask.ai/)                                                                     | AI image generation in the cloud.                                                                                                                                                              |              |   Image   |
 | [MetaShoot](https://metashoot.vinzi.xyz/)                                                      | MetaShoot is a digital twin of a photo studio, developed as a plugin for Unreal Engine that gives any creator the ability to produce highly realistic renders in the easiest and quickest way. | Unreal Engine |   Image   |
+| [Rich-Text-to-Image](https://github.com/SongweiGe/rich-text-to-image)                          | Expressive Text-to-Image Generation with Rich Text.                                                                                                                                           |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
