@@ -1,6 +1,6 @@
-# Game-AI-DevTools-Community (GADC) 🔥
+# Awesome Game AI DevTools (GAD) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
+Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
 * [Tool](#tool)
 * [Code](#code)
