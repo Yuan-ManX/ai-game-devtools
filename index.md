@@ -1,6 +1,6 @@
-# Game-AI-DevTools-Community (GADC) 🔥
+# Awesome Game AI DevTools (GAD) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more.
+Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
 * [Tool](#tool)
 * [Code](#code)
@@ -35,6 +35,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Text generation web UI](https://github.com/oobabooga/text-generation-webui)                   | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.                                                                                            |              |   Tool   |
 | [ChatYuan](https://github.com/clue-ai/ChatYuan)                                                | Large Language Model for Dialogue in Chinese and English.                                                                                                                                      |              |   Tool   |
 | [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)                                                | ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.                                                                                                       |              |   Tool   |
+| [LangChain](https://github.com/hwchase17/langchain)                                            | LangChain is a framework for developing applications powered by language models.                                                                                                        |              |   Tool   |
 | [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                   |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
 
@@ -45,6 +46,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [CodeGeeX](https://github.com/THUDM/CodeGeeX)                                                  | An Open Multilingual Code Generation Model.                                                                                                                                                    |              |   Code   |
 | [Cursor](https://www.cursor.so/)                                                               | Write, edit, and chat about your code with GPT-4 in a new type of editor.                                                                                                                      |              |   Code   |
 | [OpenAI Codex](https://openai.com/blog/openai-codex)                                           | OpenAI Codex is a descendant of GPT-3.                                                                                                                                                         |              |   Code   |
+| [CodeGen](https://github.com/salesforce/CodeGen)                                               | CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.                                                                                    |              |   Code   |
 
 ## <span id="framework">Framework</span>
 
@@ -86,6 +88,8 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Photoroom](https://www.photoroom.com/backgrounds)                                             | AI Background Generator.                                                                                                                                                                       |              |   Image   |
 | [Plask](https://plask.ai/)                                                                     | AI image generation in the cloud.                                                                                                                                                              |              |   Image   |
 | [MetaShoot](https://metashoot.vinzi.xyz/)                                                      | MetaShoot is a digital twin of a photo studio, developed as a plugin for Unreal Engine that gives any creator the ability to produce highly realistic renders in the easiest and quickest way. | Unreal Engine |   Image   |
+| [Rich-Text-to-Image](https://github.com/SongweiGe/rich-text-to-image)                          | Expressive Text-to-Image Generation with Rich Text.                                                                                                                                           |               |   Image   |
+| [ClipDrop](https://clipdrop.co/)                                                               | Create stunning visuals in seconds.                                                                                                                                                           |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
@@ -118,6 +122,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Blockade Labs](https://www.blockadelabs.com/)                                                 | Digital alchemy is real with Skybox Lab - the ultimate AI-powered solution for generating incredible 360° skybox experiences from text prompts.                                               |              |   Model   |
 | [Spline AI](https://spline.design/ai)                                                          | The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.                                                                                      |              |   Model   |
 | [Luma AI](https://lumalabs.ai/)                                                                | Capture in lifelike 3D. Unmatched photorealism, reflections, and details. The future of VFX is now, for everyone!                                                                              |              |   Model   |
+| [Anything-3D](https://github.com/Anything-of-anything/Anything-3D)                             | Segment-Anything + 3D. Let's lift the anything to 3D.                                                                                                                                             |              |   Model   |
 
 ## <span id="avatar">Avatar</span>
 
@@ -129,6 +134,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                       |              | Animation |
 | [SadTalker](https://github.com/Winfredy/SadTalker)                                             | Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.                                                                                       |              | Animation |
 
 ## <span id="video">Video</span>
@@ -174,6 +180,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Voice   |
 | [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                       |              |   Voice   |
+| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)                                     | An easy-to-use SVC framework based on VITS.                                                                                                                                       |              |   Voice   |
 
 ## <span id="speech">Speech</span>
 
