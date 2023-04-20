@@ -141,6 +141,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                       |              | Animation |
 | [NUWA-XL](https://msra-nuwa.azurewebsites.net/#/)                                              | A novel Diffusion over Diffusion architecture for eXtremely Long video generation.                                                                                                          |              | Animation |
 | [SadTalker](https://github.com/Winfredy/SadTalker)                                             | Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.                                                                                       |              | Animation |
+| [SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)                  | This project is based on SadTalkers Wav2lip for video lip synthesis.                                                                                                                            |              | Animation |
 
 ## <span id="video">Video</span>
 
