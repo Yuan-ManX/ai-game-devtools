@@ -164,6 +164,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Video LDMs](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)                            | Align your Latents: High- resolution Video Synthesis with Latent Diffusion Models.                                                                                                                  |              |   Video   |
 | [EDGE](https://github.com/Stanford-TML/EDGE)                                                   | We introduce EDGE, a powerful method for editable dance generation that is capable of creating realistic, physically-plausible dances while remaining faithful to arbitrary input music.       |              |   Video   |
 | [Pollinations](https://pollinations.ai/c/Video)                                                | Creating gets easy, fast, and fun.                                                                                                                                                             |              |   Video   |
+| [Mov2mov](https://github.com/Scholar01/sd-webui-mov2mov)                                       | Mov2mov plugin for Automatic1111/stable-diffusion-webui.                                                                                                                                       |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
