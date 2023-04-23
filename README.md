@@ -101,6 +101,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [MetaShoot](https://metashoot.vinzi.xyz/)                                                      | MetaShoot is a digital twin of a photo studio, developed as a plugin for Unreal Engine that gives any creator the ability to produce highly realistic renders in the easiest and quickest way. | Unreal Engine |   Image   |
 | [Rich-Text-to-Image](https://github.com/SongweiGe/rich-text-to-image)                          | Expressive Text-to-Image Generation with Rich Text.                                                                                                                                           |               |   Image   |
 | [ClipDrop](https://clipdrop.co/)                                                               | Create stunning visuals in seconds.                                                                                                                                                           |               |   Image   |
+| [Segment Anything](https://segment-anything.com/)                                              | Segment Anything Model (SAM): a new AI model from Meta AI that can "cut out" any object , in any image , with a single click.                                                                |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
