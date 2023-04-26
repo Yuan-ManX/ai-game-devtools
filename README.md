@@ -176,6 +176,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch)                            | Audio generation using diffusion models, in PyTorch.                                                                                                                                           |              |   Audio   |
 | [Make-An-Audio](https://text-to-audio.github.io/)                                              | Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.                                                                                                                                |              |   Audio   |
 | [AudioLDM](https://audioldm.github.io/)                                                        | Text-to-Audio Generation with Latent Diffusion Models.                                                                                                                                         |              |   Audio   |
+| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT)                                             | Understanding and Generating Speech, Music, Sound, and Talking Head.                                                                                                                           |              |   Audio   |
 
 ## <span id="music">Music</span>
 
