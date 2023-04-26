@@ -167,6 +167,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [EDGE](https://github.com/Stanford-TML/EDGE)                                                   | We introduce EDGE, a powerful method for editable dance generation that is capable of creating realistic, physically-plausible dances while remaining faithful to arbitrary input music.       |              |   Video   |
 | [Pollinations](https://pollinations.ai/c/Video)                                                | Creating gets easy, fast, and fun.                                                                                                                                                             |              |   Video   |
 | [Mov2mov](https://github.com/Scholar01/sd-webui-mov2mov)                                       | Mov2mov plugin for Automatic1111/stable-diffusion-webui.                                                                                                                                       |              |   Video   |
+| [Track-Anything](https://github.com/gaomingqi/Track-Anything)                                  | Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything and XMem.                                                            |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
