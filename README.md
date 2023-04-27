@@ -114,6 +114,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Polycam](https://poly.cam/material-generator)                                                 | Create your own 3D textures just by typing.                                                                                                                                                    |              |  Texture  |
 | [Dream Textures](https://github.com/carson-katri/dream-textures)                               | Stable Diffusion built-in to Blender. Create textures, concept art, background assets, and more with a simple text prompt.                                                                     |    Blender    |  Texture  |
+| [Text2Tex](https://daveredrum.github.io/Text2Tex/)                                             | Text-driven texture Synthesis via Diffusion Models.                                                                                                                                            |               |  Texture  |
 
 ## <span id="shader">Shader</span>
 
