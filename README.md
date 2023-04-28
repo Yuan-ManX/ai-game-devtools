@@ -61,6 +61,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [CodeGen](https://github.com/salesforce/CodeGen)                                               | CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.                                                                                    |              |   Code   |
 | [UnityGen AI](https://github.com/himanshuskyrockets/UnityGen-AI)                               | UnityGen AI is an AI-powered code generation plugin for Unity.                                                                                                                                 |     Unity     |   Code   |
 | [bloop](https://github.com/BloopAI/bloop)                                                      | bloop is a fast code search engine written in Rust.                                                                                                                                           |               |   Code   |
+| [AI Code Translator](https://github.com/mckaywrigley/ai-code-translator)                       | Use AI to translate code from one language to another.                                                                                                                                         |               |   Code   |
 
 ## <span id="framework">Framework</span>
 
