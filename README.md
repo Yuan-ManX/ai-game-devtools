@@ -50,6 +50,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.                  |              |   Tool   |
 | [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                 |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
+| [PandasAI](https://github.com/gventuri/pandas-ai)                                              | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                         |              |   Tool   |
 
 ## <span id="code">Code</span>
 
