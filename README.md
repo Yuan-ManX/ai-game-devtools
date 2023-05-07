@@ -170,6 +170,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ChatdollKit](https://github.com/uezo/ChatdollKit)                                             | ChatdollKit enables you to make your 3D model into a chatbot.                                                                                                                                  |     Unity     |  Avatar  |
+| [UnityAIWithChatGPT](https://github.com/haili1234/UnityAIWithChatGPT)                          | Based on Unity, ChatGPT+UnityChan voice interactive display is realized.                                                                                                                  |     Unity     |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
