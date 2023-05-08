@@ -199,6 +199,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Pollinations](https://pollinations.ai/c/Video)                                                | Creating gets easy, fast, and fun.                                                                                                                                                             |              |   Video   |
 | [Mov2mov](https://github.com/Scholar01/sd-webui-mov2mov)                                       | Mov2mov plugin for Automatic1111/stable-diffusion-webui.                                                                                                                                       |              |   Video   |
 | [Track-Anything](https://github.com/gaomingqi/Track-Anything)                                  | Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything and XMem.                                                            |              |   Video   |
+| [BackgroundRemover](https://github.com/nadermx/backgroundremover)                              | Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.                                               |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
