@@ -167,6 +167,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [Spline AI](https://spline.design/ai)                                                          | The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.                                                                                      |              |   Model   |
 | [Luma AI](https://lumalabs.ai/)                                                                | Capture in lifelike 3D. Unmatched photorealism, reflections, and details. The future of VFX is now, for everyone!                                                                              |              |   Model   |
 | [Anything-3D](https://github.com/Anything-of-anything/Anything-3D)                             | Segment-Anything + 3D. Let's lift the anything to 3D.                                                                                                                                             |              |   Model   |
+| [threestudio](https://github.com/threestudio-project/threestudio)                              | A unified framework for 3D content generation.                                                                                                                                                   |              |   Model   |
 
 ## <span id="avatar">Avatar</span>
 
