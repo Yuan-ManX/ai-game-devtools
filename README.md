@@ -80,6 +80,7 @@ Here we will keep track of the Game AI Development Tools, including programming,
 | [UnityGen AI](https://github.com/himanshuskyrockets/UnityGen-AI)                               | UnityGen AI is an AI-powered code generation plugin for Unity.                                                                                                                                 |     Unity     |   Code   |
 | [bloop](https://github.com/BloopAI/bloop)                                                      | bloop is a fast code search engine written in Rust.                                                                                                                                           |               |   Code   |
 | [AI Code Translator](https://github.com/mckaywrigley/ai-code-translator)                       | Use AI to translate code from one language to another.                                                                                                                                         |               |   Code   |
+| [CodeT5](https://github.com/salesforce/codet5)                                                 | Open Code LLMs for Code Understanding and Generation.                                                                                                                                         |               |   Code   |
 
 ## <span id="framework">Framework</span>
 
