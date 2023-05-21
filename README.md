@@ -1,6 +1,6 @@
-# Awesome Game AI DevTools (GAD) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# AI Game Development Tools (AI-GDT)
 
-Here we will keep track of the Game AI Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
+Here we will keep track of the AI Game Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
 * [Tool (AI LLM)](#tool)
 * [Code](#code)
