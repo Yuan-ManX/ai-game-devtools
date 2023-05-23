@@ -17,6 +17,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 * [Music](#music)
 * [Voice](#voice)
 * [Speech](#speech)
+* [Analytics](#analytics)
 
 ## <span id="tool">Tool (AI LLM)</span>
 
@@ -135,6 +136,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Segment Anything](https://segment-anything.com/)                                              | Segment Anything Model (SAM): a new AI model from Meta AI that can "cut out" any object , in any image , with a single click.                                                                |               |   Image   |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)        | Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs.                                                                                                   |               |   Image   |
 
+
 ## <span id="texture">Texture</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
@@ -143,6 +145,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [With Poly](https://withpoly.com/browse/textures)                                              | Create Textures With Poly. Generate 3D materials with AI in a free online editor, or search our growing community library.                                                                    |              |  Texture  |
 | [Dream Textures](https://github.com/carson-katri/dream-textures)                               | Stable Diffusion built-in to Blender. Create textures, concept art, background assets, and more with a simple text prompt.                                                                     |    Blender    |  Texture  |
 | [Text2Tex](https://daveredrum.github.io/Text2Tex/)                                             | Text-driven texture Synthesis via Diffusion Models.                                                                                                                                            |               |  Texture  |
+| [Texture Lab](https://www.texturelab.xyz/)                                             | AI-generated texures. You can generate your own with a text prompt.                                                                                                                                           |               |  Texture  |
 
 ## <span id="shader">Shader</span>
 
@@ -172,6 +175,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Luma AI](https://lumalabs.ai/)                                                                | Capture in lifelike 3D. Unmatched photorealism, reflections, and details. The future of VFX is now, for everyone!                                                                              |              |   Model   |
 | [Anything-3D](https://github.com/Anything-of-anything/Anything-3D)                             | Segment-Anything + 3D. Let's lift the anything to 3D.                                                                                                                                             |              |   Model   |
 | [threestudio](https://github.com/threestudio-project/threestudio)                              | A unified framework for 3D content generation.                                                                                                                                                   |              |   Model   |
+| [3Dpresso](https://3dpresso.ai/)                                             | Extract a 3D model of an object, captured on a video.                                                                                                                                           |               |  Texture  |
 
 ## <span id="avatar">Avatar</span>
 
@@ -260,3 +264,8 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Audyo](https://www.audyo.ai/)                                                                 | Text in. Audio out.                                                                                                                                                                            |              |  Speech  |
 | [speech-to-text-gpt3-unity](https://github.com/dr-iskandar/speech-to-text-gpt3-unity)          | This is the repo I use Whisper and ChatGPT API from OpenAI in Unity.                                                                                                                            |     Unity     |  Speech  |
 
+## <span id="speech">Analytics</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
