@@ -227,6 +227,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [AudioGPT](https://github.com/AIGC-Audio/AudioGPT)                                             | Understanding and Generating Speech, Music, Sound, and Talking Head.                                                                                                                           |              |   Audio   |
 | [AcademiCodec](https://github.com/yangdongchao/AcademiCodec)                                   | An Open Source Audio Codec Model for Academic Research.                                                                                                                                       |              |   Audio   |
 | [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)                    | Efficient Parallel Audio Generation.                                                                                                                                                           |              |   Audio   |
+| [TANGO](https://github.com/declare-lab/tango)                                                  | Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model.                                                                                                               |              |   Audio   |
 
 ## <span id="music">Music</span>
 
