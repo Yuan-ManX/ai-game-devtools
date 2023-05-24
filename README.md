@@ -265,6 +265,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Fliki](https://fliki.ai/)                                                                     | Turn text into videos with AI voices.                                                                                                                                                          |              |  Speech  |
 | [Audyo](https://www.audyo.ai/)                                                                 | Text in. Audio out.                                                                                                                                                                            |              |  Speech  |
 | [speech-to-text-gpt3-unity](https://github.com/dr-iskandar/speech-to-text-gpt3-unity)          | This is the repo I use Whisper and ChatGPT API from OpenAI in Unity.                                                                                                                            |     Unity     |  Speech  |
+| [CLAPSpeech](https://clapspeech.github.io/)                                                    | Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training.                                                                                                                            |     Unity     |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
