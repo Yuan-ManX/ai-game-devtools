@@ -68,6 +68,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                 |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
 | [PandasAI](https://github.com/gventuri/pandas-ai)                                              | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                         |              |   Tool   |
+| [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)                                        | Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.                                                                                 |              |   Tool   |
 
 ## <span id="code">Code</span>
 
