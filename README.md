@@ -1,4 +1,4 @@
-# AI Game Development Tools (AI-GDT)
+# AI Game Development Tools (AI-GDT) 🎮
 
 Here we will keep track of the AI Game Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
