@@ -198,6 +198,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [SadTalker](https://github.com/Winfredy/SadTalker)                                             | Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.                                                                                       |              | Animation |
 | [SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)                  | This project is based on SadTalkers Wav2lip for video lip synthesis.                                                                                                                            |              | Animation |
 | [GeneFace](https://github.com/yerfor/GeneFace)                                                 | Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis.                                                                                                                 |              | Animation |
+| [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                 |              | Animation |
 
 ## <span id="video">Video</span>
 
