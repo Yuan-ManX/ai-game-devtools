@@ -188,6 +188,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ChatdollKit](https://github.com/uezo/ChatdollKit)                                             | ChatdollKit enables you to make your 3D model into a chatbot.                                                                                                                                  |     Unity     |  Avatar  |
 | [UnityAIWithChatGPT](https://github.com/haili1234/UnityAIWithChatGPT)                          | Based on Unity, ChatGPT+UnityChan voice interactive display is realized.                                                                                                                      |     Unity     |  Avatar  |
 | [ChatAvatar](https://hyperhuman.deemos.com/chatavatar)                                         | Progressive generation Of Animatable 3D Faces Under Text guidance.                                                                                                                            |               |  Avatar  |
+| [StyleAvatar3D](https://github.com/icoz69/StyleAvatar3D)                                       | Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.                                                                                                                |               |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
