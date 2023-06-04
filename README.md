@@ -181,6 +181,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [threestudio](https://github.com/threestudio-project/threestudio)                              | A unified framework for 3D content generation.                                                                                                                                                   |              |   Model   |
 | [3Dpresso](https://3dpresso.ai/)                                                               | Extract a 3D model of an object, captured on a video.                                                                                                                                             |               |   Model   |
 | [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)                              | High-Fidelity and diverse Text-to-3D generation with Variational score Distillation.                                                                                                             |               |   Model   |
+| [HiFA](https://hifa-team.github.io/HiFA-site/)                                                 | High-fidelity Text-to-3D with advance Diffusion guidance.                                                                                                                                         |               |   Model   |
 
 ## <span id="avatar">Avatar</span>
 
