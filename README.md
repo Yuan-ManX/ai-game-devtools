@@ -85,6 +85,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [AI Code Translator](https://github.com/mckaywrigley/ai-code-translator)                       | Use AI to translate code from one language to another.                                                                                                                                         |               |   Code   |
 | [CodeT5](https://github.com/salesforce/codet5)                                                 | Open Code LLMs for Code Understanding and Generation.                                                                                                                                         |               |   Code   |
 | [StarCoder](https://github.com/bigcode-project/starcoder)                                      | 💫 StarCoder is a language model (LM) trained on source code and natural language text.                                                                                                       |               |   Code   |
+| [CodeTF](https://github.com/salesforce/codetf)                                                 | One-stop Transformer Library for State-of-the-art Code LLM.                                                                                                                                   |               |   Code   |    
 
 ## <span id="framework">Framework</span>
 
