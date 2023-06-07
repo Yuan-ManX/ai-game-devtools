@@ -192,6 +192,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [UnityAIWithChatGPT](https://github.com/haili1234/UnityAIWithChatGPT)                          | Based on Unity, ChatGPT+UnityChan voice interactive display is realized.                                                                                                                      |     Unity     |  Avatar  |
 | [ChatAvatar](https://hyperhuman.deemos.com/chatavatar)                                         | Progressive generation Of Animatable 3D Faces Under Text guidance.                                                                                                                            |               |  Avatar  |
 | [StyleAvatar3D](https://github.com/icoz69/StyleAvatar3D)                                       | Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.                                                                                                                |               |  Avatar  |
+| [HeadSculpt](https://brandonhan.uk/HeadSculpt/)                                                | Crafting 3D Head Avatars with Text.                                                                                                                                                          |               |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
