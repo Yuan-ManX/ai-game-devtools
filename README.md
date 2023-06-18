@@ -186,6 +186,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)                              | High-Fidelity and diverse Text-to-3D generation with Variational score Distillation.                                                                                                             |               |   Model   |
 | [HiFA](https://hifa-team.github.io/HiFA-site/)                                                 | High-fidelity Text-to-3D with advance Diffusion guidance.                                                                                                                                         |               |   Model   |
 | [Tafi](https://maketafi.com/ai)                                                                | AI text to 3D character engine.                                                                                                                                                                   |               |   Model   |
+| [Infinigen](https://github.com/princeton-vl/infinigen)                                         | Infinite Photorealistic Worlds using Procedural Generation.                                                                                                                                       |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
