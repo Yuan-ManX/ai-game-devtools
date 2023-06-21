@@ -103,6 +103,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Notebook.ai](https://github.com/indentlabs/notebook)                                          | Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them.                                                      |              |  Writer  |
 | [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                   |              |  Writer  |
 | [AI-Writer](https://github.com/BlinkDL/AI-Writer)                                              | AI writes novels, generates fantasy and romance web articles, etc. Chinese pre-trained generative model.                                                                                       |              |  Writer  |
+| [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                                      |              |  Writer  |
 
 ## <span id="image">Image</span>
 
