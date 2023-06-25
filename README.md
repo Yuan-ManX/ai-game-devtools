@@ -285,6 +285,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [speech-to-text-gpt3-unity](https://github.com/dr-iskandar/speech-to-text-gpt3-unity)          | This is the repo I use Whisper and ChatGPT API from OpenAI in Unity.                                                                                                                            |     Unity     |  Speech  |
 | [CLAPSpeech](https://clapspeech.github.io/)                                                    | Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training.                                                                                                                |               |  Speech  |
 | [SpeechGPT](https://github.com/0nutation/SpeechGPT)                                            | Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.                                                                                                          |               |  Speech  |
+| [Voicebox](https://github.com/SpeechifyInc/Meta-voicebox)                                      | Text-Guided Multilingual Universal Speech Generation at Scale.                                                                                                                                 |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
