@@ -260,6 +260,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Mubert](https://mubert.com/)                                                                  | AI Generative Music.                                                                                                                                                                           |              |   Music   |
 | [Amper Music](https://www.shutterstock.com/discover/ampermusic)                                | Custom music generation technology powered by Amper.                                                                                                                                           |              |   Music   |
 | [SoundRaw](https://soundraw.io/)                                                               | AI music generator for creators.                                                                                                                                                               |              |   Music   |
+| [MusicGen](https://github.com/facebookresearch/audiocraft)                                     | Simple and Controllable Music Generation.                                                                                                                                                      |              |   Music   |
 
 ## <span id="voice">Voice</span>
 
