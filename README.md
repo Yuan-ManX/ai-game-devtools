@@ -143,7 +143,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Depth map library and poser](https://github.com/jexom/sd-webui-depth-lib)                     | Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui.                                                                                     |               |   Image   |
 | [Segment Anything](https://segment-anything.com/)                                              | Segment Anything Model (SAM): a new AI model from Meta AI that can "cut out" any object , in any image , with a single click.                                                                |               |   Image   |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)        | Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs.                                                                                                   |               |   Image   |
-
+| [DragGAN](https://github.com/XingangPan/DragGAN)                                               | Interactive Point-based Manipulation on the Generative Image Manifold.                                                                                                                     |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
