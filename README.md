@@ -229,6 +229,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [BackgroundRemover](https://github.com/nadermx/backgroundremover)                              | Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.                                               |              |   Video   |
 | [dolphin](https://github.com/kaleido-lab/dolphin)                                              | General video interaction platform based on LLMs.                                                                                                                                             |              |   Video   |
 | [Descript](https://www.descript.com/)                                                          | Descript is the simple, powerful , and fun way to edit.                                                                                                                                       |              |   Video   |
+| [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                      |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
