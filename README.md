@@ -188,6 +188,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [HiFA](https://hifa-team.github.io/HiFA-site/)                                                 | High-fidelity Text-to-3D with advance Diffusion guidance.                                                                                                                                         |               |   Model   |
 | [Tafi](https://maketafi.com/ai)                                                                | AI text to 3D character engine.                                                                                                                                                                   |               |   Model   |
 | [Infinigen](https://github.com/princeton-vl/infinigen)                                         | Infinite Photorealistic Worlds using Procedural Generation.                                                                                                                                       |               |   3D   |
+| [One-2-3-45](https://one-2-3-45.github.io/)                                                    | Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization.                                                                                                                         |               |   Model   |
 
 ## <span id="avatar">Avatar</span>
 
