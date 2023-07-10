@@ -233,6 +233,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [dolphin](https://github.com/kaleido-lab/dolphin)                                              | General video interaction platform based on LLMs.                                                                                                                                             |              |   Video   |
 | [Descript](https://www.descript.com/)                                                          | Descript is the simple, powerful , and fun way to edit.                                                                                                                                       |              |   Video   |
 | [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                      |              |   Video   |
+| [Pika Labs](https://www.pika.art/)                                                             | Pika Labs is revolutionizing video-making experience with AI.                                                                                                                                 |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
