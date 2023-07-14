@@ -237,6 +237,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Descript](https://www.descript.com/)                                                          | Descript is the simple, powerful , and fun way to edit.                                                                                                                                       |              |   Video   |
 | [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                      |              |   Video   |
 | [Pika Labs](https://www.pika.art/)                                                             | Pika Labs is revolutionizing video-making experience with AI.                                                                                                                                 |              |   Video   |
+| [Animate-A-Story](https://github.com/VideoCrafter/Animate-A-Story)                             | Retrieval-Augmented Video Generation for Telling a Story.                                                                                                                                     |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
