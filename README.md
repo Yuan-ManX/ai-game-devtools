@@ -90,6 +90,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [StarCoder](https://github.com/bigcode-project/starcoder)                                      | 💫 StarCoder is a language model (LM) trained on source code and natural language text.                                                                                                       |               |   Code   |
 | [CodeTF](https://github.com/salesforce/codetf)                                                 | One-stop Transformer Library for State-of-the-art Code LLM.  |               |   Code   | 
 | [RobloxScripterAI](https://www.haddock.ai/search?platform=Roblox)                              | RobloxScripterAI is an AI-powered code generation tool for Roblox.   |     Roblox         |   Code   | 
+| [Chapyter](https://github.com/chapyter/chapyter)                                               | ChatGPT Code Interpreter in Jupyter Notebooks.                                                                                                                                                |               |   Code   |
 
 ## <span id="framework">Framework</span>
 
