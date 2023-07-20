@@ -239,6 +239,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                      |              |   Video   |
 | [Pika Labs](https://www.pika.art/)                                                             | Pika Labs is revolutionizing video-making experience with AI.                                                                                                                                 |              |   Video   |
 | [Animate-A-Story](https://github.com/VideoCrafter/Animate-A-Story)                             | Retrieval-Augmented Video Generation for Telling a Story.                                                                                                                                     |              |   Video   |
+| [ShortGPT](https://github.com/RayVentura/ShortGPT)                                             | An experimental AI framework for automated short/video content creation.                                                                                                                      |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
