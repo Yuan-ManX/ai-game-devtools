@@ -205,6 +205,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ChatAvatar](https://hyperhuman.deemos.com/chatavatar)                                         | Progressive generation Of Animatable 3D Faces Under Text guidance.                                                                                                                            |               |  Avatar  |
 | [StyleAvatar3D](https://github.com/icoz69/StyleAvatar3D)                                       | Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.                                                                                                                |               |  Avatar  |
 | [HeadSculpt](https://brandonhan.uk/HeadSculpt/)                                                | Crafting 3D Head Avatars with Text.                                                                                                                                                          |               |  Avatar  |
+| [MotionGPT](https://github.com/OpenMotionLab/MotionGPT)                                        | Human Motion as a Foreign Language, a unified motion-language generation model using LLMs.                                                                                                   |               |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
