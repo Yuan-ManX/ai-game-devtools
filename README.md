@@ -153,6 +153,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Segment Anything](https://segment-anything.com/)                                              | Segment Anything Model (SAM): a new AI model from Meta AI that can "cut out" any object , in any image , with a single click.                                                                |               |   Image   |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)        | Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs.                                                                                                   |               |   Image   |
 | [DragGAN](https://github.com/XingangPan/DragGAN)                                               | Interactive Point-based Manipulation on the Generative Image Manifold.                                                                                                                     |               |   Image   |
+| [BriVL](https://github.com/BAAI-WuDao/BriVL)                                                   | Bridging Vision and Language Model.                                                                                                                                                        |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
