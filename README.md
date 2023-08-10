@@ -156,6 +156,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [DragGAN](https://github.com/XingangPan/DragGAN)                                               | Interactive Point-based Manipulation on the Generative Image Manifold.                                                                                                                     |               |   Image   |
 | [BriVL](https://github.com/BAAI-WuDao/BriVL)                                                   | Bridging Vision and Language Model.                                                                                                                                                        |               |   Image   |
 | [ConceptLab](https://github.com/kfirgoldberg/ConceptLab)                                       | Creative Generation using Diffusion Prior Constraints.                                                                                                                                     |               |   Image   |
+| [DWPose](https://github.com/idea-research/dwpose)                                              | Effective Whole-body Pose Estimation with Two-stages Distillation.                                                                                                                         |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
