@@ -287,6 +287,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [SoundRaw](https://soundraw.io/)                                                               | AI music generator for creators.                                                                                                                                                               |              |   Music   |
 | [MusicGen](https://github.com/facebookresearch/audiocraft)                                     | Simple and Controllable Music Generation.                                                                                                                                                      |              |   Music   |
 | [MusicLDM](https://musicldm.github.io/)                                                        | Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies.                                                                                                         |              |   Music   |
+| [JEN-1](https://www.futureverse.com/research/jen/demos/jen1)                                   | Text-Guided Universal Music Generation with Omnidirectional Diffusion Models.                                                                                                                  |              |   Music   |
 
 ## <span id="voice">Voice</span>
 
