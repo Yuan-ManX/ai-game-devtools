@@ -3,7 +3,7 @@
 Here we will keep track of the AI Game Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
 * [Tool (AI LLM)](#tool)
-* [Game(#game)
+* [Game](#game)
 * [Code](#code)
 * [Framework](#framework)
 * [Writer](#writer)
