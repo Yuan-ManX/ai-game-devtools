@@ -3,6 +3,7 @@
 Here we will keep track of the AI Game Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
 
 * [Tool (AI LLM)](#tool)
+* [Game(#game)
 * [Code](#code)
 * [Framework](#framework)
 * [Writer](#writer)
@@ -73,13 +74,18 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Dora](https://www.dora.run/ai)                                                                | Generating powerful websites, one prompt at a time.                                                                                                                                         |              |   Tool   |
 | [ImageBind](https://github.com/facebookresearch/ImageBind)                                     | ImageBind One Embedding Space to Bind Them All.                                                                                                                                             |              |   Tool   |
 | [ToolBench](https://github.com/openbmb/toolbench)                                              | An open platform for training, serving, and evaluating large language model for tool learning.                                                                                              |              |   Tool   |
-| [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.                  |              |   Tool   |
-| [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                 |              |   Tool   |
-| [AgentBench](https://github.com/thudm/agentbench)                                              | A Comprehensive Benchmark to Evaluate LLMs as Agents.                                                                                                                                        |              |   Tool   |
-| [Generative Agents](https://github.com/joonspk-research/generative_agents)                     | Interactive Simulacra of Human Behavior.                                                                                                                                                     |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
-| [PandasAI](https://github.com/gventuri/pandas-ai)                                              | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                         |              |   Tool   |
+| [PandasAI](https://github.com/gventuri/pandas-ai)                                              | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                   |              |   Tool   |
 | [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)                                        | Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.                                                                                 |              |   Tool   |
+
+## <span id="game">Game</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                 |              |   Game   |
+| [AgentBench](https://github.com/thudm/agentbench)                                              | A Comprehensive Benchmark to Evaluate LLMs as Agents.                                                                                                                                        |              |   Agent  |
+| [Generative Agents](https://github.com/joonspk-research/generative_agents)                     | Interactive Simulacra of Human Behavior.                                                                                                                                                     |              |   Agent  |
+| [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.            |              |   Game   |
 
 ## <span id="code">Code</span>
 
