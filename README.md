@@ -242,6 +242,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [GeneFace](https://github.com/yerfor/GeneFace)                                                 | Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis.                                                                                                                           |              | Animation |
 | [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                       |              | Animation |
 | [AnimateDiff](https://github.com/guoyww/animatediff/)                                          | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                                                                                               |              | Animation |
+| [Omni Animation](https://omnianimation.ai/)                                                    | AI Generated High Fidelity Animations.                                                                                                                                                          |              | Animation |
 
 ## <span id="video">Video</span>
 
