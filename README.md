@@ -271,6 +271,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Animate-A-Story](https://github.com/VideoCrafter/Animate-A-Story)                             | Retrieval-Augmented Video Generation for Telling a Story.                                                                                                                                     |              |   Video   |
 | [ShortGPT](https://github.com/RayVentura/ShortGPT)                                             | An experimental AI framework for automated short/video content creation.                                                                                                                      |              |   Video   |
 | [StableVideo](https://github.com/rese1f/stablevideo)                                           | Text-driven Consistency-aware Diffusion Video Editing.                                                                                                                                        |              |   Video   |
+| [CoDeF](https://github.com/qiuyu96/codef)                                                      | Content Deformation Fields for Temporally Consistent Video Processing.                                                                                                                        |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
