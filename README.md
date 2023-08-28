@@ -111,6 +111,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)                                        | Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.                                                                                 |              |   Code   |
 | [Chapyter](https://github.com/chapyter/chapyter)                                               | ChatGPT Code Interpreter in Jupyter Notebooks.                                                                                                                                                |               |   Code   |
 | [Code Llama](https://github.com/facebookresearch/codellama)                                    | Code Llama is a large language models for code based on Llama 2.                                                                                                                              |               |   Code   |
+| [SoTaNa](https://github.com/DeepSoftwareAnalytics/SoTaNa)                                      | The Open-Source Software Development Assistant.                                                                                                                                               |               |   Code   |
 
 ## <span id="framework">Framework</span>
 
