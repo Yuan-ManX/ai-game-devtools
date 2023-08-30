@@ -175,6 +175,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ConceptLab](https://github.com/kfirgoldberg/ConceptLab)                                       | Creative Generation using Diffusion Prior Constraints.                                                                                                                                       |               |   Image   |
 | [DWPose](https://github.com/idea-research/dwpose)                                              | Effective Whole-body Pose Estimation with Two-stages Distillation.                                                                                                                           |               |   Image   |
 | [GIFfusion](https://github.com/DN6/giffusion)                                                  | Create GIFs and Videos using Stable Diffusion.                                                                                                                                               |               |   Image   |
+| [Fooocus](https://github.com/lllyasviel/Fooocus)                                               | Focus on prompting and generating.                                                                                                                                                           |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
