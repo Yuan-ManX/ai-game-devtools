@@ -226,6 +226,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [One-2-3-45](https://one-2-3-45.github.io/)                                                    | Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization.                                                                                                                         |               |   Model   |
 | [3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM)                                     | Injecting the 3D World into Large Language Models.                                                                                                                                                |               |   3D   |
 | [Dash](https://www.polygonflow.io/)                                                            | Your Copilot for World Building in Unreal Engine.                                                                                                                                                 | Unreal Engine |   3D   |
+| [MVDream](https://github.com/MV-Dream/MVDream)                                                 | Multi-view Diffusion for 3D Generation.                                                                                                                                                           |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
