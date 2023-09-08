@@ -281,6 +281,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ShortGPT](https://github.com/RayVentura/ShortGPT)                                             | An experimental AI framework for automated short/video content creation.                                                                                                                      |              |   Video   |
 | [StableVideo](https://github.com/rese1f/stablevideo)                                           | Text-driven Consistency-aware Diffusion Video Editing.                                                                                                                                        |              |   Video   |
 | [CoDeF](https://github.com/qiuyu96/codef)                                                      | Content Deformation Fields for Temporally Consistent Video Processing.                                                                                                                        |              |   Video   |
+| [Reuse and Diffuse](https://anonymous0x233.github.io/ReuseAndDiffuse/)                         | Iterative Denoising for Text-to-Video Generation.                                                                                                                                             |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
