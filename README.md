@@ -179,6 +179,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [GIFfusion](https://github.com/DN6/giffusion)                                                  | Create GIFs and Videos using Stable Diffusion.                                                                                                                                               |               |   Image   |
 | [Fooocus](https://github.com/lllyasviel/Fooocus)                                               | Focus on prompting and generating.                                                                                                                                                           |               |   Image   |
 | [Ideogram](https://ideogram.ai/login)                                                          | Helping people become more creative.                                                                                                                                                         |               |   Image   |
+| [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)                                      | Generating Multiview-consistent Images from a Single-view Image.                                                                                                                             |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
