@@ -230,6 +230,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Dash](https://www.polygonflow.io/)                                                            | Your Copilot for World Building in Unreal Engine.                                                                                                                                                 | Unreal Engine |   3D   |
 | [MVDream](https://github.com/MV-Dream/MVDream)                                                 | Multi-view Diffusion for 3D Generation.                                                                                                                                                           |               |   3D   |
 | [CityDreamer](https://github.com/hzxie/city-dreamer)                                           | Compositional Generative Model of Unbounded 3D Cities.                                                                                                                                            |               |   3D   |
+| [Meshy](https://www.meshy.ai/)                                                                 | Create Stunning 3D Game Assets with AI.                                                                                                                                                           |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
