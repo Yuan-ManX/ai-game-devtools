@@ -299,6 +299,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)                    | Efficient Parallel Audio Generation.                                                                                                                                                           |              |   Audio   |
 | [TANGO](https://github.com/declare-lab/tango)                                                  | Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model.                                                                                                               |              |   Audio   |
 | [WavJourney](https://github.com/Audio-AGI/WavJourney)                                          | Compositional Audio Creation with Large Language Models.                                                                                                                                       |              |   Audio   |
+| [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
 
 ## <span id="music">Music</span>
 
