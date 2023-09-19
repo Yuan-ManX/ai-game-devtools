@@ -181,8 +181,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Fooocus](https://github.com/lllyasviel/Fooocus)                                               | Focus on prompting and generating.                                                                                                                                                           |               |   Image   |
 | [Ideogram](https://ideogram.ai/login)                                                          | Helping people become more creative.                                                                                                                                                         |               |   Image   |
 | [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)                                      | Generating Multiview-consistent Images from a Single-view Image.                                                                                                                             |               |   Image   |
-| [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)                                   | Your Smart AI Photo Generator.                                                                                                                           
-                                    |               |   Image   |
+| [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)                                   | Your Smart AI Photo Generator.                                                                                                                                                               |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
