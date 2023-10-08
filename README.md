@@ -93,6 +93,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.                    |              |   Game   |
 | [StoryGames.ai](https://storygames.buildbox.com/)                                              | AI for Dreamers Make Games.                                                                                                                                                                  |              |   Game   |
 | [ChatDev](https://github.com/OpenBMB/ChatDev)                                                  | Communicative Agents for Software Development.                                                                                                                                               |              |   Agent  |
+| [AutoGen](https://github.com/microsoft/autogen)                                                | Enable Next-Gen Large Language Model Applications.                                                                                                                                           |              |   Agent  |
 
 ## <span id="code">Code</span>
 
