@@ -92,6 +92,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Biomes](https://github.com/ill-inc/biomes-game)                                               | Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.                                                         |              |   Game   |
 | [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.                    |              |   Game   |
 | [StoryGames.ai](https://storygames.buildbox.com/)                                              | AI for Dreamers Make Games.                                                                                                                                                                  |              |   Game   |
+| [ChatDev](https://github.com/OpenBMB/ChatDev)                                                  | Communicative Agents for Software Development.                                                                                                                                               |              |   Agent  |
 
 ## <span id="code">Code</span>
 
