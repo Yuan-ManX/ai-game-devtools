@@ -78,6 +78,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [ImageBind](https://github.com/facebookresearch/ImageBind)                                     | ImageBind One Embedding Space to Bind Them All.                                                                                                                                             |              |   Tool   |
 | [ToolBench](https://github.com/openbmb/toolbench)                                              | An open platform for training, serving, and evaluating large language model for tool learning.                                                                                              |              |   Tool   |
 | [LogicGamesSolver](https://github.com/fabridigua/LogicGamesSolver)                             | A Python tool to solve logic games with AI, Deep Learning and Computer Vision.                                                                                                                 |              |   Tool   |
+| [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)                                               | Any-to-Any Multimodal Large Language Model.                                                                                                                                                    |              |   Tool   |
 
 ## <span id="game">Game</span>
 
