@@ -293,6 +293,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [StableVideo](https://github.com/rese1f/stablevideo)                                           | Text-driven Consistency-aware Diffusion Video Editing.                                                                                                                                        |              |   Video   |
 | [CoDeF](https://github.com/qiuyu96/codef)                                                      | Content Deformation Fields for Temporally Consistent Video Processing.                                                                                                                        |              |   Video   |
 | [Reuse and Diffuse](https://anonymous0x233.github.io/ReuseAndDiffuse/)                         | Iterative Denoising for Text-to-Video Generation.                                                                                                                                             |              |   Video   |
+| [MotionDirector](https://github.com/showlab/MotionDirector)                                    | Motion Customization of Text-to-Video Diffusion Models.                                                                                                                                       |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
