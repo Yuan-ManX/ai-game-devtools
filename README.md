@@ -81,6 +81,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)                                               | Any-to-Any Multimodal Large Language Model.                                                                                                                                                    |              |   Tool   |
 | [MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5)                                          | Interleaved Vision-and-Language Generation via Generative Vokens.                                                                                                                              |              |   Tool   |
 | [Lemur](https://github.com/OpenLemur/Lemur)                                                    | Open Foundation Models for Language Agents.                                                                                                                                                    |              |   Tool   |
+| [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 
 ## <span id="game">Game</span>
 
