@@ -82,6 +82,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5)                                          | Interleaved Vision-and-Language Generation via Generative Vokens.                                                                                                                              |              |   Tool   |
 | [Lemur](https://github.com/OpenLemur/Lemur)                                                    | Open Foundation Models for Language Agents.                                                                                                                                                    |              |   Tool   |
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
+| [Character-LLM](https://github.com/choosewhatulike/trainable-agents)                           | A Trainable Agent for Role-Playing.                                                                                                                                                            |              |   Tool   |
 
 ## <span id="game">Game</span>
 
