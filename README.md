@@ -200,6 +200,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Text2Tex](https://daveredrum.github.io/Text2Tex/)                                             | Text-driven texture Synthesis via Diffusion Models.                                                                                                                                            |               |  Texture  |
 | [Texture Lab](https://www.texturelab.xyz/)                                                     | AI-generated texures. You can generate your own with a text prompt.                                                                                                                            |               |  Texture  |
 | [Neuralangelo](https://github.com/NVlabs/neuralangelo)                                         | High-Fidelity Neural Surface Reconstruction.                                                                                                                                                   |               |  Texture  |
+| [TexFusion](https://research.nvidia.com/labs/toronto-ai/texfusion/)                            | Synthesizing 3D Textures with Text-Guided Image Diffusion Models.                                                                                                                              |               |  Texture  |
 
 ## <span id="shader">Shader</span>
 
