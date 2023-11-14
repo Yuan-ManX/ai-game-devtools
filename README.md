@@ -191,6 +191,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Ideogram](https://ideogram.ai/login)                                                          | Helping people become more creative.                                                                                                                                                         |               |   Image   |
 | [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)                                      | Generating Multiview-consistent Images from a Single-view Image.                                                                                                                             |               |   Image   |
 | [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)                                   | Your Smart AI Photo Generator.                                                                                                                                                               |               |   Image   |
+| [KREA](https://www.krea.ai/)                                                                   | Generate images and videos with a delightful AI-powered design tool.                                                                                                                         |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
