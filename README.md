@@ -250,6 +250,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [GaussianDreamer](https://github.com/hustvl/GaussianDreamer)                                   | Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors.                                                                                                                       |               |   3D   |
 | [3D-GPT](https://chuny1.github.io/3DGPT/3dgpt.html)                                            | Procedural 3D MODELING WITH LARGE LANGUAGE MODELS.                                                                                                                                                |               |   3D   |
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                                                                                  |               |   3D   |
+| [lumine AI](https://ilumine.ai/)                                                               | AI-Powered Creativity.                                                                                                                                                                            |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
