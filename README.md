@@ -323,6 +323,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [TANGO](https://github.com/declare-lab/tango)                                                  | Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model.                                                                                                               |              |   Audio   |
 | [WavJourney](https://github.com/Audio-AGI/WavJourney)                                          | Compositional Audio Creation with Large Language Models.                                                                                                                                       |              |   Audio   |
 | [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
+| [Amphion](https://github.com/open-mmlab/Amphion)                                               | An Open-Source Audio, Music, and Speech Generation Toolkit.                                                                                                                                    |              |   Audio   |
 
 ## <span id="music">Music</span>
 
