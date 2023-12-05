@@ -277,6 +277,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                       |              | Animation |
 | [AnimateDiff](https://github.com/guoyww/animatediff/)                                          | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                                                                                               |              | Animation |
 | [Omni Animation](https://omnianimation.ai/)                                                    | AI Generated High Fidelity Animations.                                                                                                                                                          |              | Animation |
+| [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone)                                   | Consistent and Controllable Image-to-Video Synthesis for Character Animation.                                                                                                                   |              | Animation |
 
 ## <span id="video">Video</span>
 
