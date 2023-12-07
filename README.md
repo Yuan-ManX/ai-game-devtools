@@ -309,6 +309,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [MotionDirector](https://github.com/showlab/MotionDirector)                                    | Motion Customization of Text-to-Video Diffusion Models.                                                                                                                                       |              |   Video   |
 | [Moonvalley](https://moonvalley.ai/)                                                           | Moonvalley is a groundbreaking new text-to-video generative AI model.                                                                                                                         |              |   Video   |
 | [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)                    | Stable Video Diffusion (SVD) Image-to-Video.                                                                                                                                                  |              |   Video   |
+| [MotionCtrl](https://wzhouxiff.github.io/projects/MotionCtrl/)                                 | A Unified and Flexible Motion Controller for Video Generation.                                                                                                                                |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
