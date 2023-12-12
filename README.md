@@ -327,6 +327,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [WavJourney](https://github.com/Audio-AGI/WavJourney)                                          | Compositional Audio Creation with Large Language Models.                                                                                                                                       |              |   Audio   |
 | [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
 | [Amphion](https://github.com/open-mmlab/Amphion)                                               | An Open-Source Audio, Music, and Speech Generation Toolkit.                                                                                                                                    |              |   Audio   |
+| [Audiobox](https://audiobox.metademolab.com/)                                                  | Unified Audio Generation with Natural Language Prompts.                                                                                                                                        |              |   Audio   |
 
 ## <span id="music">Music</span>
 
