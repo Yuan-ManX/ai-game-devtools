@@ -312,6 +312,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)                    | Stable Video Diffusion (SVD) Image-to-Video.                                                                                                                                                  |              |   Video   |
 | [MotionCtrl](https://wzhouxiff.github.io/projects/MotionCtrl/)                                 | A Unified and Flexible Motion Controller for Video Generation.                                                                                                                                |              |   Video   |
 | [W.A.L.T](https://walt-video-diffusion.github.io/)                                             | Photorealistic Video Generation with Diffusion Models.                                                                                                                                        |              |   Video   |
+| [I2VGen-XL](https://i2vgen-xl.github.io/)                                                      | High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models.                                                                                                                          |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
