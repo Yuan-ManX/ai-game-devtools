@@ -280,6 +280,9 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [AnimateDiff](https://github.com/guoyww/animatediff/)                                          | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                                                                                               |              | Animation |
 | [Omni Animation](https://omnianimation.ai/)                                                    | AI Generated High Fidelity Animations.                                                                                                                                                          |              | Animation |
 | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone)                                   | Consistent and Controllable Image-to-Video Synthesis for Character Animation.                                                                                                                   |              | Animation |
+| [MagicAnimate](https://showlab.github.io/magicanimate/)                                        | Temporally Consistent Human Image Animation using Diffusion Model.                                                                                                                              |              | Animation |
+| [DreaMoving](https://dreamoving.github.io/dreamoving/)                                         | A Human Video Generation Framework based on Diffusion Models.                                                                                                                                   |              | Animation |
+| [FreeInit](https://tianxingwu.github.io/pages/FreeInit/)                                       | Bridging Initialization Gap in Video Diffusion Models.                                                                                                                                          |              | Animation |
 
 ## <span id="video">Video</span>
 
@@ -313,6 +316,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [MotionCtrl](https://wzhouxiff.github.io/projects/MotionCtrl/)                                 | A Unified and Flexible Motion Controller for Video Generation.                                                                                                                                |              |   Video   |
 | [W.A.L.T](https://walt-video-diffusion.github.io/)                                             | Photorealistic Video Generation with Diffusion Models.                                                                                                                                        |              |   Video   |
 | [I2VGen-XL](https://i2vgen-xl.github.io/)                                                      | High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models.                                                                                                                          |              |   Video   |
+| [LaVie](https://vchitect.github.io/LaVie-project/)                                             | High-Quality Video Generation with Cascaded Latent Diffusion Models.                                                                                                                          |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
