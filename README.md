@@ -193,6 +193,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)                                   | Your Smart AI Photo Generator.                                                                                                                                                               |               |   Image   |
 | [KREA](https://www.krea.ai/)                                                                   | Generate images and videos with a delightful AI-powered design tool.                                                                                                                         |               |   Image   |
 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)                            | A Pipeline-Level Solution for Real-Time Interactive Generation.                                                                                                                              |               |   Image   |
+| [AnyText](https://github.com/tyxsspa/AnyText)                                                  | Multilingual Visual Text Generation And Editing.                                                                                                                                             |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
