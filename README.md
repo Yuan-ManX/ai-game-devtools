@@ -254,6 +254,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                                                                                  |               |   3D   |
 | [lumine AI](https://ilumine.ai/)                                                               | AI-Powered Creativity.                                                                                                                                                                            |               |   3D   |
 | [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting)                     | Toy Gaussian Splatting visualization in Unity.                                                                                                                                                    |     Unity     |   3D   |
+| [Paint3D](https://github.com/OpenTexture/Paint3D)                                              | Paint Anything 3D with Lighting-Less Texture Diffusion Models.                                                                                                                                    |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
