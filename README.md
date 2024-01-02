@@ -101,6 +101,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [StoryGames.ai](https://storygames.buildbox.com/)                                              | AI for Dreamers Make Games.                                                                                                                                                                  |              |   Game   |
 | [ChatDev](https://github.com/OpenBMB/ChatDev)                                                  | Communicative Agents for Software Development.                                                                                                                                               |              |   Agent  |
 | [AutoGen](https://github.com/microsoft/autogen)                                                | Enable Next-Gen Large Language Model Applications.                                                                                                                                           |              |   Agent  |
+| [LARP](https://github.com/MiAO-AI-Lab/LARP)                                                    | Language-Agent Role Play for open-world games.                                                                                                                                               |              |   Agent  |
 
 ## <span id="code">Code</span>
 
