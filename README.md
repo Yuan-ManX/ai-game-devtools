@@ -339,6 +339,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
 | [Amphion](https://github.com/open-mmlab/Amphion)                                               | An Open-Source Audio, Music, and Speech Generation Toolkit.                                                                                                                                    |              |   Audio   |
 | [Audiobox](https://audiobox.metademolab.com/)                                                  | Unified Audio Generation with Natural Language Prompts.                                                                                                                                        |              |   Audio   |
+| [Auffusion](https://github.com/happylittlecat2333/Auffusion)                                   | Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.                                                                                                      |              |   Audio   |
 
 ## <span id="music">Music</span>
 
