@@ -194,6 +194,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [KREA](https://www.krea.ai/)                                                                   | Generate images and videos with a delightful AI-powered design tool.                                                                                                                         |               |   Image   |
 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)                            | A Pipeline-Level Solution for Real-Time Interactive Generation.                                                                                                                              |               |   Image   |
 | [AnyText](https://github.com/tyxsspa/AnyText)                                                  | Multilingual Visual Text Generation And Editing.                                                                                                                                             |               |   Image   |
+| [Stable Diffusion XL Turbo](https://clipdrop.co/stable-diffusion-turbo)                        | Real-Time Text-to-Image Generation.                                                                                                                                                          |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
