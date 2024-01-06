@@ -321,6 +321,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [I2VGen-XL](https://i2vgen-xl.github.io/)                                                      | High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models.                                                                                                                          |              |   Video   |
 | [LaVie](https://vchitect.github.io/LaVie-project/)                                             | High-Quality Video Generation with Cascaded Latent Diffusion Models.                                                                                                                          |              |   Video   |
 | [Emu Video](https://emu-video.metademolab.com/)                                                | Factorizing Text-to-Video Generation by Explicit Image Conditioning.                                                                                                                          |              |   Video   |
+| [Make Pixels Dance](https://makepixelsdance.github.io/)                                        | High-Dynamic Video Generation.                                                                                                                                                                |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
