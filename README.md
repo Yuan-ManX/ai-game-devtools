@@ -287,6 +287,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [MagicAnimate](https://showlab.github.io/magicanimate/)                                        | Temporally Consistent Human Image Animation using Diffusion Model.                                                                                                                              |              | Animation |
 | [DreaMoving](https://dreamoving.github.io/dreamoving/)                                         | A Human Video Generation Framework based on Diffusion Models.                                                                                                                                   |              | Animation |
 | [FreeInit](https://tianxingwu.github.io/pages/FreeInit/)                                       | Bridging Initialization Gap in Video Diffusion Models.                                                                                                                                          |              | Animation |
+| [AnimateZero](https://vvictoryuki.github.io/animatezero.github.io/)                            | Video Diffusion Models are Zero-Shot Image Animators.                                                                                                                                           |              | Animation |
 
 ## <span id="video">Video</span>
 
