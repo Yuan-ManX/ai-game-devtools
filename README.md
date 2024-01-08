@@ -196,6 +196,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)                            | A Pipeline-Level Solution for Real-Time Interactive Generation.                                                                                                                              |               |   Image   |
 | [AnyText](https://github.com/tyxsspa/AnyText)                                                  | Multilingual Visual Text Generation And Editing.                                                                                                                                             |               |   Image   |
 | [Stable Diffusion XL Turbo](https://clipdrop.co/stable-diffusion-turbo)                        | Real-Time Text-to-Image Generation.                                                                                                                                                          |               |   Image   |
+| [Outfit Anyone](https://humanaigc.github.io/outfit-anyone/)                                    | Ultra-high quality virtual try-on for Any Clothing and Any Person.                                                                                                                           |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
