@@ -325,6 +325,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Emu Video](https://emu-video.metademolab.com/)                                                | Factorizing Text-to-Video Generation by Explicit Image Conditioning.                                                                                                                          |              |   Video   |
 | [Make Pixels Dance](https://makepixelsdance.github.io/)                                        | High-Dynamic Video Generation.                                                                                                                                                                |              |   Video   |
 | [VideoPoet](https://sites.research.google/videopoet/)                                          | A large language model for zero-shot video generation.                                                                                                                                        |              |   Video   |
+| [Fairy](https://fairy-video2video.github.io/)                                                  | Fast Parallelized Instruction-Guided Video-to-Video Synthesis.                                                                                                                                |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
