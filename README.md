@@ -288,6 +288,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [DreaMoving](https://dreamoving.github.io/dreamoving/)                                         | A Human Video Generation Framework based on Diffusion Models.                                                                                                                                   |              | Animation |
 | [FreeInit](https://tianxingwu.github.io/pages/FreeInit/)                                       | Bridging Initialization Gap in Video Diffusion Models.                                                                                                                                          |              | Animation |
 | [AnimateZero](https://vvictoryuki.github.io/animatezero.github.io/)                            | Video Diffusion Models are Zero-Shot Image Animators.                                                                                                                                           |              | Animation |
+| [AnimateAnything](https://animationai.github.io/AnimateAnything/)                              | Fine-Grained Open Domain Image Animation with Motion Guidance.                                                                                                                                  |              | Animation |
 
 ## <span id="video">Video</span>
 
