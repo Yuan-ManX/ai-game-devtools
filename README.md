@@ -1,6 +1,6 @@
 # AI Game Development Tools (AI-GDT) 🎮
 
-Here we will keep track of the AI Game Development Tools, including programming, animation, effects, modeling, audio, music and more. 🔥
+Here we will keep track of the AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Voice and Analytics. 🔥
 
 * [Tool (AI LLM)](#tool)
 * [Game](#game)
