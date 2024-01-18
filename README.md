@@ -1,6 +1,6 @@
 # AI Game Development Tools (AI-GDT) 🎮
 
-Here we will keep track of the AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Voice and Analytics. 🔥
+Here we will keep track of the AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 
 * [Tool (AI LLM)](#tool)
 * [Game](#game)
@@ -16,7 +16,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 * [Video](#video)
 * [Audio](#audio)
 * [Music](#music)
-* [Voice](#voice)
+* [Singing Voice](#voice)
 * [Speech](#speech)
 * [Analytics](#analytics)
 
@@ -370,14 +370,14 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [MusicLDM](https://musicldm.github.io/)                                                        | Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies.                                                                                                         |              |   Music   |
 | [JEN-1](https://www.futureverse.com/research/jen/demos/jen1)                                   | Text-Guided Universal Music Generation with Omnidirectional Diffusion Models.                                                                                                                  |              |   Music   |
 
-## <span id="voice">Voice</span>
+## <span id="voice">Singing Voice</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Voice   |
-| [VI-SVS](https://github.com/PlayVoice/VI-SVS)                                                  | Use VITS and Opencpop to develop singing voice synthesis; Different from VISinger.                                                                                                             |              |   Voice   |
-| [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                       |              |   Voice   |
-| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)                                     | An easy-to-use SVC framework based on VITS.                                                                                              |              |   Voice   |
+| [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Singing Voice   |
+| [VI-SVS](https://github.com/PlayVoice/VI-SVS)                                                  | Use VITS and Opencpop to develop singing voice synthesis; Different from VISinger.                                                                                                             |              |   Singing Voice   |
+| [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)                                     | Singing Voice Synthesis via Shallow Diffusion Mechanism.                                                                                                                                       |              |   Singing Voice   |
+| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)                                     | An easy-to-use SVC framework based on VITS.                                                                                                 |              |   Singing Voice   |
 
 ## <span id="speech">Speech</span>
 
