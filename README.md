@@ -329,6 +329,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Make Pixels Dance](https://makepixelsdance.github.io/)                                        | High-Dynamic Video Generation.                                                                                                                                                                |              |   Video   |
 | [VideoPoet](https://sites.research.google/videopoet/)                                          | A large language model for zero-shot video generation.                                                                                                                                        |              |   Video   |
 | [Fairy](https://fairy-video2video.github.io/)                                                  | Fast Parallelized Instruction-Guided Video-to-Video Synthesis.                                                                                                                                |              |   Video   |
+| [MotionCtrl](https://wzhouxiff.github.io/projects/MotionCtrl/)                                 | A Unified and Flexible Motion Controller for Video Generation.                                                                                                                                |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
