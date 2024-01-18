@@ -101,6 +101,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [StoryGames.ai](https://storygames.buildbox.com/)                                              | AI for Dreamers Make Games.                                                                                                                                                                  |              |   Game   |
 | [ChatDev](https://github.com/OpenBMB/ChatDev)                                                  | Communicative Agents for Software Development.                                                                                                                                               |              |   Agent  |
 | [AutoGen](https://github.com/microsoft/autogen)                                                | Enable Next-Gen Large Language Model Applications.                                                                                                                                           |              |   Agent  |
+| [LARP](https://github.com/MiAO-AI-Lab/LARP)                                                    | Language-Agent Role Play for open-world games.                                                                                                                                               |              |   Agent  |
 
 ## <span id="code">Code</span>
 
@@ -257,6 +258,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                                                                                  |               |   3D   |
 | [lumine AI](https://ilumine.ai/)                                                               | AI-Powered Creativity.                                                                                                                                                                            |               |   3D   |
 | [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting)                     | Toy Gaussian Splatting visualization in Unity.                                                                                                                                                    |     Unity     |   3D   |
+| [Paint3D](https://github.com/OpenTexture/Paint3D)                                              | Paint Anything 3D with Lighting-Less Texture Diffusion Models.                                                                                                                                    |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
@@ -345,6 +347,7 @@ Here we will keep track of the AI Game Development Tools, including programming,
 | [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
 | [Amphion](https://github.com/open-mmlab/Amphion)                                               | An Open-Source Audio, Music, and Speech Generation Toolkit.                                                                                                                                    |              |   Audio   |
 | [Audiobox](https://audiobox.metademolab.com/)                                                  | Unified Audio Generation with Natural Language Prompts.                                                                                                                                        |              |   Audio   |
+| [Auffusion](https://github.com/happylittlecat2333/Auffusion)                                   | Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.                                                                                                      |              |   Audio   |
 
 ## <span id="music">Music</span>
 
