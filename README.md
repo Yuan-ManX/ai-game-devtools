@@ -102,6 +102,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [ChatDev](https://github.com/OpenBMB/ChatDev)                                                  | Communicative Agents for Software Development.                                                                                                                                               |              |   Agent  |
 | [AutoGen](https://github.com/microsoft/autogen)                                                | Enable Next-Gen Large Language Model Applications.                                                                                                                                           |              |   Agent  |
 | [LARP](https://github.com/MiAO-AI-Lab/LARP)                                                    | Language-Agent Role Play for open-world games.                                                                                                                                               |              |   Agent  |
+| [Digital Life Project](https://digital-life-project.com/)                                      | Autonomous 3D Characters with Social Intelligence.                                                                                                                                           |              |   Agent  |
 
 ## <span id="code">Code</span>
 
