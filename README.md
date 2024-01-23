@@ -273,6 +273,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [MotionGPT](https://github.com/OpenMotionLab/MotionGPT)                                        | Human Motion as a Foreign Language, a unified motion-language generation model using LLMs.                                                                                                    |               |  Avatar  |
 | [CALM](https://github.com/NVlabs/CALM)                                                         | Conditional Adversarial Latent Models for Directable Virtual Characters.                                                                                                                      |               |  Avatar  |
 | [Text2Control3D](https://text2control3d.github.io/)                                            | Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model.                                                                              |               |  Avatar  |
+| [Wild2Avatar](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)                          | Rendering Humans Behind Occlusions.                                                                                                                                                           |               |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
