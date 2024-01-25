@@ -332,6 +332,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Make Pixels Dance](https://makepixelsdance.github.io/)                                        | High-Dynamic Video Generation.                                                                                                                                                                |              |   Video   |
 | [VideoPoet](https://sites.research.google/videopoet/)                                          | A large language model for zero-shot video generation.                                                                                                                                        |              |   Video   |
 | [Fairy](https://fairy-video2video.github.io/)                                                  | Fast Parallelized Instruction-Guided Video-to-Video Synthesis.                                                                                                                                |              |   Video   |
+| [UniVG](https://univg-baidu.github.io/)                                                        | Towards UNIfied-modal Video Generation.                                                                                                                                                       |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
