@@ -408,6 +408,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui)                        | TTS Generation WebUI (Bark, MusicGen, Tortoise, RVC, Vocos, Demucs).                                                                                                                           |               |  Speech  |
 | [XTTS](https://github.com/coqui-ai/TTS)                                                        | XTTS is a library for advanced Text-to-Speech generation.                                                                                                                                      |               |  Speech  |
 | [TorToiSe-TTS](https://github.com/neonbjb/tortoise-tts)                                        | A multi-voice TTS system trained with an emphasis on quality.                                                                                                                                  |               |  Speech  |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)                                           | A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.                                                                                                                                 |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
