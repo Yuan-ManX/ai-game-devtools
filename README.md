@@ -201,6 +201,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Outfit Anyone](https://humanaigc.github.io/outfit-anyone/)                                    | Ultra-high quality virtual try-on for Any Clothing and Any Person.                                                                                                                           |               |   Image   |
 | [AnyDoor](https://ali-vilab.github.io/AnyDoor-Page/)                                           | Zero-shot Object-level Image Customization.                                                                                                                                                  |               |   Image   |
 | [RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)                     | Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG).                                                                                        |               |   Image   |
+| [PhotoMaker](https://photo-maker.github.io/)                                                   | Customizing Realistic Human Photos via Stacked ID Embedding.                                                                                                                                 |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
