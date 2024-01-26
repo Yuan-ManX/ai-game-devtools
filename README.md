@@ -19,6 +19,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 * [Singing Voice](#voice)
 * [Speech](#speech)
 * [Analytics](#analytics)
+* [Video Tool](#video_tool)
 
 ## <span id="tool">Tool (AI LLM)</span>
 
@@ -413,3 +414,9 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
+
+## <span id="video_tool">Video Tool</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [CoTracker](https://co-tracker.github.io/)                                                  | It is Better to Track Together.                                                                                                                                                                |               | Video Tool |
