@@ -275,6 +275,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [CALM](https://github.com/NVlabs/CALM)                                                         | Conditional Adversarial Latent Models for Directable Virtual Characters.                                                                                                                      |               |  Avatar  |
 | [Text2Control3D](https://text2control3d.github.io/)                                            | Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model.                                                                              |               |  Avatar  |
 | [Wild2Avatar](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)                          | Rendering Humans Behind Occlusions.                                                                                                                                                           |               |  Avatar  |
+| [Vid2Avatar](https://moygcc.github.io/vid2avatar/)                                             | 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition.                                                                                                     |               |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
