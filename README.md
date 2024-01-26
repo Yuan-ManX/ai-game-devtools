@@ -126,6 +126,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Chapyter](https://github.com/chapyter/chapyter)                                               | ChatGPT Code Interpreter in Jupyter Notebooks.                                                                                                                                                |               |   Code   |
 | [Code Llama](https://github.com/facebookresearch/codellama)                                    | Code Llama is a large language models for code based on Llama 2.                                                                                                                              |               |   Code   |
 | [SoTaNa](https://github.com/DeepSoftwareAnalytics/SoTaNa)                                      | The Open-Source Software Development Assistant.                                                                                                                                               |               |   Code   |
+| [Stable Code 3B](https://bit.ly/3O4oGWW)                                                       | Coding on the Edge.                                                                                                                                                                           |               |   Code   |
 
 ## <span id="framework">Framework</span>
 
