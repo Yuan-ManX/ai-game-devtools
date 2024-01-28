@@ -412,6 +412,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)                                      | A fast TTS architecture with conditional flow matching.                                                                                                                                        |               |  Speech  |
 | [MahaTTS](https://github.com/dubverse-ai/MahaTTS)                                              | An Open-Source Large Speech Generation Model.                                                                                                                                                  |               |  Speech  |
 | [Glow-TTS](https://github.com/jaywalnut310/glow-tts)                                           | A Generative Flow for Text-to-Speech via Monotonic Alignment Search.                                                                                                                           |               |  Speech  |
+| [OpenVoice](https://github.com/myshell-ai/OpenVoice)                                           | Instant voice cloning by MyShell.                                                                                                                                                              |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
