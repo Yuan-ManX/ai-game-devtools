@@ -411,6 +411,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)                                           | A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.                                                                                                                                 |               |  Speech  |
 | [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)                                      | A fast TTS architecture with conditional flow matching.                                                                                                                                        |               |  Speech  |
 | [MahaTTS](https://github.com/dubverse-ai/MahaTTS)                                              | An Open-Source Large Speech Generation Model.                                                                                                                                                  |               |  Speech  |
+| [Glow-TTS](https://github.com/jaywalnut310/glow-tts)                                           | A Generative Flow for Text-to-Speech via Monotonic Alignment Search.                                                                                                                           |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
