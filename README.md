@@ -418,6 +418,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)                                     | A Multi-Voice and Prompt-Controlled TTS Engine.                                                                                                                                                |               |  Speech  |
 | [WhisperSpeech](https://github.com/collabora/WhisperSpeech)                                    | An Open Source text-to-speech system built by inverting Whisper.                                                                                                                               |               |  Speech  |
 | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                                              | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.                                                                        |               |  Speech  |
+| [OverFlow](https://github.com/shivammehta25/OverFlow)                                          | Putting flows on top of neural transducers for better TTS.                                                                                                                                     |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
