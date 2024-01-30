@@ -417,6 +417,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice)                                           | Instant voice cloning by MyShell.                                                                                                                                                              |               |  Speech  |
 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)                                     | A Multi-Voice and Prompt-Controlled TTS Engine.                                                                                                                                                |               |  Speech  |
 | [WhisperSpeech](https://github.com/collabora/WhisperSpeech)                                    | An Open Source text-to-speech system built by inverting Whisper.                                                                                                                               |               |  Speech  |
+| [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                                              | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.                                                                        |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
