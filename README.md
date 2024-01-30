@@ -416,6 +416,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Glow-TTS](https://github.com/jaywalnut310/glow-tts)                                           | A Generative Flow for Text-to-Speech via Monotonic Alignment Search.                                                                                                                           |               |  Speech  |
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice)                                           | Instant voice cloning by MyShell.                                                                                                                                                              |               |  Speech  |
 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)                                     | A Multi-Voice and Prompt-Controlled TTS Engine.                                                                                                                                                |               |  Speech  |
+| [WhisperSpeech](https://github.com/collabora/WhisperSpeech)                                    | An Open Source text-to-speech system built by inverting Whisper.                                                                                                                               |               |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
