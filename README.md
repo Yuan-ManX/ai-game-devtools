@@ -265,6 +265,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [lumine AI](https://ilumine.ai/)                                                               | AI-Powered Creativity.                                                                                                                                                                            |               |   3D   |
 | [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting)                     | Toy Gaussian Splatting visualization in Unity.                                                                                                                                                    |     Unity     |   3D   |
 | [Paint3D](https://github.com/OpenTexture/Paint3D)                                              | Paint Anything 3D with Lighting-Less Texture Diffusion Models.                                                                                                                                    |               |   3D   |
+| [3DTopia](https://github.com/3DTopia/3DTopia)                                                  | Text-to-3D Generation within 5 Minutes.                                                                                                                                                           |               |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
