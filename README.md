@@ -335,6 +335,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Motionshop](https://aigc3d.github.io/motionshop/)                                             | An application of replacing the characters in video with 3D avatars.                                                                                                                          |              |   Video   |
 | [UniVG](https://univg-baidu.github.io/)                                                        | Towards UNIfied-modal Video Generation.                                                                                                                                                       |              |   Video   |
 | [Lumiere](https://lumiere-video.github.io/)                                                    | A Space-Time Diffusion Model for Video Generation.                                                                                                                                            |              |   Video   |
+| [Follow Your Pose](https://follow-your-pose.github.io/)                                        | Pose-Guided Text-to-Video Generation using Pose-Free Videos.                                                                                                                                  |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
