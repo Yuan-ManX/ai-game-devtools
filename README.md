@@ -205,6 +205,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)                     | Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG).                                                                                        |               |   Image   |
 | [PhotoMaker](https://photo-maker.github.io/)                                                   | Customizing Realistic Human Photos via Stacked ID Embedding.                                                                                                                                 |               |   Image   |
 | [Dashtoon Studio](https://www.dashtoon.ai/)                                                    | Dashtoon Studio is an AI powered comic creation platform.                                                                                                                                    |               |   Comic   |
+| [InstantID](https://github.com/InstantID/InstantID)                                            | Zero-shot Identity-Preserving Generation in Seconds.                                                                                                                                         |               |   Image   |
 
 ## <span id="texture">Texture</span>
 
