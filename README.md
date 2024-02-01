@@ -87,6 +87,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Lemur](https://github.com/OpenLemur/Lemur)                                                    | Open Foundation Models for Language Agents.                                                                                                                                                    |              |   Tool   |
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 | [Character-LLM](https://github.com/choosewhatulike/trainable-agents)                           | A Trainable Agent for Role-Playing.                                                                                                                                                            |              |   Tool   |
+| [Gemini](https://deepmind.google/technologies/gemini)                                          | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.                                                                       |              |   Tool   |
 
 ## <span id="game">Game</span>
 
