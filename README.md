@@ -87,6 +87,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Lemur](https://github.com/OpenLemur/Lemur)                                                    | Open Foundation Models for Language Agents.                                                                                                                                                    |              |   Tool   |
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 | [Character-LLM](https://github.com/choosewhatulike/trainable-agents)                           | A Trainable Agent for Role-Playing.                                                                                                                                                            |              |   Tool   |
+| [Gemini](https://deepmind.google/technologies/gemini)                                          | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.                                                                       |              |   Tool   |
+| [OLMo](https://github.com/allenai/OLMo)                                                        | Open Language Model                                                                                                                                                                            |              |   Tool   |
 
 ## <span id="game">Game</span>
 
@@ -344,6 +346,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [UniVG](https://univg-baidu.github.io/)                                                        | Towards UNIfied-modal Video Generation.                                                                                                                                                       |              |   Video   |
 | [Lumiere](https://lumiere-video.github.io/)                                                    | A Space-Time Diffusion Model for Video Generation.                                                                                                                                            |              |   Video   |
 | [Follow Your Pose](https://follow-your-pose.github.io/)                                        | Pose-Guided Text-to-Video Generation using Pose-Free Videos.                                                                                                                                  |              |   Video   |
+| [PixVerse](https://app.pixverse.ai)                                                            | Create breath-taking videos with AI.                                                                                                                                                          |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
