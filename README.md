@@ -88,6 +88,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 | [Character-LLM](https://github.com/choosewhatulike/trainable-agents)                           | A Trainable Agent for Role-Playing.                                                                                                                                                            |              |   Tool   |
 | [Gemini](https://deepmind.google/technologies/gemini)                                          | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.                                                                       |              |   Tool   |
+| [OLMo](https://github.com/allenai/OLMo)                                                        | Open Language Model                                                                                                                                                                            |              |   Tool   |
 
 ## <span id="game">Game</span>
 
@@ -344,6 +345,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Motionshop](https://aigc3d.github.io/motionshop/)                                             | An application of replacing the characters in video with 3D avatars.                                                                                                                          |              |   Video   |
 | [UniVG](https://univg-baidu.github.io/)                                                        | Towards UNIfied-modal Video Generation.                                                                                                                                                       |              |   Video   |
 | [Lumiere](https://lumiere-video.github.io/)                                                    | A Space-Time Diffusion Model for Video Generation.                                                                                                                                            |              |   Video   |
+| [PixVerse](https://app.pixverse.ai)                                                            | Create breath-taking videos with AI.                                                                                                                                                          |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
