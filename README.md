@@ -3,7 +3,7 @@
 Here we will keep track of the AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 
 * [Tool (AI LLM)](#tool)
-* [Game](#game)
+* [Game (Agent)](#game)
 * [Code](#code)
 * [Framework](#framework)
 * [Writer](#writer)
@@ -91,7 +91,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 | [Yi](https://github.com/01-ai/Yi)                                                              | A series of large language models trained from scratch by developers.                                                                                                                          |              |   Tool   |
 
-## <span id="game">Game</span>
+## <span id="game">Game (Agent)</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -108,6 +108,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [MuG Diffusion](https://github.com/Keytoyze/Mug-Diffusion)                                     | MuG Diffusion is a charting AI for rhythm games based on Stable Diffusion (one of the most powerful AIGC models) with a large modification to incorporate audio waves.                     |              |   Game   |
 | [Opus](https://opus.ai/)                                                                       | An AI app that turns text into a video game.                                                                                                                                                   |              |   Game   |
 | [StoryGames.ai](https://storygames.buildbox.com/)                                              | AI for Dreamers Make Games.                                                                                                                                                                    |              |   Game   |
+| [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Agent  |
 
 ## <span id="code">Code</span>
 
