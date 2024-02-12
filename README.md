@@ -434,6 +434,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Whisper](https://github.com/openai/whisper)                                                   | Whisper is a general-purpose speech recognition model.                                                                                                                                         |              |  Speech  |
 | [WhisperSpeech](https://github.com/collabora/WhisperSpeech)                                    | An Open Source text-to-speech system built by inverting Whisper.                                                                                                                               |              |  Speech  |
 | [XTTS](https://github.com/coqui-ai/TTS)                                                        | XTTS is a library for advanced Text-to-Speech generation.                                                                                                                                      |              |  Speech  |
+| [YourTTS](https://github.com/Edresson/YourTTS)                                                 | Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.                                                                                                               |              |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
