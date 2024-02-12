@@ -275,6 +275,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting)                     | Toy Gaussian Splatting visualization in Unity.                                                                                                                                                 |     Unity     |   3D   |
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                                                                               |              |   3D   |
 | [Zero-1-to-3](https://github.com/cvlab-columbia/zero123)                                       | Zero-shot One Image to 3D Object.                                                                                                                                                              |              |   Model   |
+| [Mootion](https://mootion.com/landing)                                                         | Magical 3D AI Animation Maker.                                                                                                                                                                 |              |   3D   |
 
 ## <span id="avatar">Avatar</span>
 
