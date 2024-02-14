@@ -293,6 +293,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [UnityAIWithChatGPT](https://github.com/haili1234/UnityAIWithChatGPT)                          | Based on Unity, ChatGPT+UnityChan voice interactive display is realized.                                                                                                                       |     Unity     |  Avatar  |
 | [Vid2Avatar](https://moygcc.github.io/vid2avatar/)                                             | 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition.                                                                                                      |              |  Avatar  |
 | [Wild2Avatar](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)                          | Rendering Humans Behind Occlusions.                                                                                                                                                            |              |  Avatar  |
+| [Ready Player Me](https://readyplayer.me/)                                                     | Integrate customizable avatars into your game or app in days.                                                                                                                                  |              |  Avatar  |
 
 ## <span id="animation">Animation</span>
 
