@@ -213,6 +213,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [StyleDrop](https://styledrop.github.io/)                                                      | Text-To-Image Generation in Any Style.                                                                                                                                                         |              |   Image   |
 | [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)                                      | Generating Multiview-consistent Images from a Single-view Image.                                                                                                                               |              |   Image   |
 | [Unity ML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion)                 | Core ML Stable Diffusion on Unity.                                                                                                                                                             |     Unity     |   Image   |
+| [Diffuse to Choose](https://diffuse2choose.github.io/)                                         | Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All.                                                                                                         |              |   Image   |
 
 ## <span id="texture">Texture</span>
 
