@@ -311,6 +311,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)                  | This project is based on SadTalkers Wav2lip for video lip synthesis.                                                                                                                           |              | Animation |
 | [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                      |              | Animation |
 | [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                        |              | Animation |
+| [PIA](https://pi-animator.github.io/)                                                          | Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models.                                                                                                            |              | Animation |
 
 ## <span id="video">Video</span>
 
