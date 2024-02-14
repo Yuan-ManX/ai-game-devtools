@@ -358,6 +358,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [VideoPoet](https://sites.research.google/videopoet/)                                          | A large language model for zero-shot video generation.                                                                                                                                         |              |   Video   |
 | [W.A.L.T](https://walt-video-diffusion.github.io/)                                             | Photorealistic Video Generation with Diffusion Models.                                                                                                                                         |              |   Video   |
 | [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                       |              |   Video   |
+| [Assistive](https://assistive.chat/product/video)                                              | Meet the generative video platform that brings your ideas to life.                                                                                                                             |              |   Video   |
 
 ## <span id="audio">Audio</span>
 
