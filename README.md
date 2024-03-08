@@ -536,6 +536,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [WhisperSpeech](https://github.com/collabora/WhisperSpeech)                                    | An Open Source text-to-speech system built by inverting Whisper.                                                                                                                               |              |  Speech  |
 | [XTTS](https://github.com/coqui-ai/TTS)                                                        | XTTS is a library for advanced Text-to-Speech generation.                                                                                                                                      |              |  Speech  |
 | [YourTTS](https://github.com/Edresson/YourTTS)                                                 | Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.                                                                                                               |              |  Speech  |
+| [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS)                                         | Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.                                                                     |              |  Speech  |
 
 ## <span id="speech">Analytics</span>
 
