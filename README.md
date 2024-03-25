@@ -116,6 +116,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [WordGPT](https://github.com/filippofinke/WordGPT)                                             | 🤖 Bring the power of ChatGPT to Microsoft Word                                                                                                                                               |              |   Tool   |
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Tool   |
 | [Yi](https://github.com/01-ai/Yi)                                                              | A series of large language models trained from scratch by developers.                                                                                                                          |              |   Tool   |
+| [01 Project](https://github.com/OpenInterpreter/01)                                            | The open-source language model computer.                                                                                                                                                       |              |   Tool   |
 
 ## <span id="game">Game (Agent)</span>
 
