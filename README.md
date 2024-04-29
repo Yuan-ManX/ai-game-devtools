@@ -419,6 +419,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [LLaVA++](https://github.com/mbzuai-oryx/LLaVA-pp)                                          | Extending Visual Capabilities with LLaMA-3 and Phi-3.                                                                                                                                          |              |   Visual  |
+| [Vitron](https://github.com/SkyworkAI/Vitron)                                               | A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing.                                                                                                           |              |   Visual  |
 
 ## <span id="video">Video</span>
 
