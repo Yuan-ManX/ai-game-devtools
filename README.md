@@ -17,6 +17,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 * [3D Model](#model)
 * [Avatar](#avatar)
 * [Animation](#animation)
+* [Visual](#visual)
 * [Video](#video)
 * [Audio](#audio)
 * [Music](#music)
@@ -412,6 +413,12 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                      |              | Animation |
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)                                                 | Accurately Lip-syncing Videos In The Wild.                                                                                                                                                     |              | Animation |
 | [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                        |              | Animation |
+
+## <span id="visual">Visual</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone)                                   | Consistent and Controllable Image-to-Video Synthesis for Character Animation.                                                                                                                  |              |   Visual  |
 
 ## <span id="video">Video</span>
 
