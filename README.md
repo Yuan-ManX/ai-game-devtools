@@ -418,7 +418,7 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone)                                   | Consistent and Controllable Image-to-Video Synthesis for Character Animation.                                                                                                                  |              |   Visual  |
+| [LLaVA++](https://github.com/mbzuai-oryx/LLaVA-pp)                                          | Extending Visual Capabilities with LLaMA-3 and Phi-3.                                                                                                                                          |              |   Visual  |
 
 ## <span id="video">Video</span>
 
