@@ -190,6 +190,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Video2Game](https://github.com/video2game/video2game)                                         | Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video.                                                                                                      |              |   Game   |
 | [V-IRL](https://virl-platform.github.io/)                                                      | Grounding Virtual Intelligence in Real Life.                                                                                                                                                   |              |   Agent  |
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |              |   Agent  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="code">Code</span>
 
@@ -216,6 +218,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [StarCoder](https://github.com/bigcode-project/starcoder)                                      | 💫 StarCoder is a language model (LM) trained on source code and natural language text.                                                                                                       |              |   Code   |
 | [StarCoder 2](https://github.com/bigcode-project/starcoder2)                                   | StarCoder2 is a family of code generation models (3B, 7B, and 15B), trained on 600+ programming languages from The Stack v2 and some natural language text such as Wikipedia, Arxiv, and GitHub issues.   |              |   Code   |
 | [UnityGen AI](https://github.com/himanshuskyrockets/UnityGen-AI)                               | UnityGen AI is an AI-powered code generation plugin for Unity.                                                                                                                                 |     Unity     |   Code   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="framework">Framework</span>
 
@@ -224,6 +228,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [behaviac](https://github.com/Tencent/behaviac)                                                | Behaviac is a framework of the game AI development.                                                                                                                                            |              | Framework |
 | [GameAISDK](https://github.com/Tencent/GameAISDK)                                              | Image-based game AI automation framework.                                                                                                                                                      |              | Framework |
 | [Moonlander.ai](https://www.moonlander.ai/)                                                    | Start building 3D games without any coding using generative AI.                                                                                                                                |              | Framework |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="writer">Writer</span>
 
@@ -233,6 +239,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Notebook.ai](https://github.com/indentlabs/notebook)                                          | Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them.                                                  |              |  Writer  |
 | [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                                   |              |  Writer  |
 | [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                 |              |  Writer  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="image">Image</span>
 
@@ -307,6 +315,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)                                      | Generating Multiview-consistent Images from a Single-view Image.                                                                                                                               |              |   Image   |
 | [Unity ML Stable Diffusion](https://github.com/keijiro/UnityMLStableDiffusion)                 | Core ML Stable Diffusion on Unity.                                                                                                                                                             |     Unity     |   Image   |
 | [Vispunk Visions](https://vispunk.com/image)                                                   | Text-to-Image generation platform.                                                                                                                                                             |              |   Image   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="texture">Texture</span>
 
@@ -324,12 +334,16 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Text2Tex](https://daveredrum.github.io/Text2Tex/)                                             | Text-driven texture Synthesis via Diffusion Models.                                                                                                                                            |              |  Texture  |
 | [Texture Lab](https://www.texturelab.xyz/)                                                     | AI-generated texures. You can generate your own with a text prompt.                                                                                                                            |              |  Texture  |
 | [With Poly](https://withpoly.com/browse/textures)                                              | Create Textures With Poly. Generate 3D materials with AI in a free online editor, or search our growing community library.                                                                |              |  Texture  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="shader">Shader</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [AI Shader](https://github.com/keijiro/AIShader)                                               | ChatGPT-powered shader generator for Unity.                                                                                                                                                    |     Unity     |  Shader  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="model">3D Model</span>
 
@@ -382,6 +396,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Voxcraft](https://voxcraft.ai/)                                                               | Crafting Ready-to-Use 3D Models with AI.                                                                                                                                                       |              |   3D   |
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                                                                               |              |   3D   |
 | [Zero-1-to-3](https://github.com/cvlab-columbia/zero123)                                       | Zero-shot One Image to 3D Object.                                                                                                                                                              |              |   Model   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="avatar">Avatar</span>
 
@@ -406,6 +422,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Vid2Avatar](https://moygcc.github.io/vid2avatar/)                                             | 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition.                                                                                                      |              |  Avatar  |
 | [VLOGGER](https://enriccorona.github.io/vlogger/)                                              | Multimodal Diffusion for Embodied Avatar Synthesis.                                                                                                                                            |              |  Avatar  |
 | [Wild2Avatar](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)                          | Rendering Humans Behind Occlusions.                                                                                                                                                            |              |  Avatar  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="animation">Animation</span>
 
@@ -434,6 +452,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [TaleCrafter](https://github.com/VideoCrafter/TaleCrafter)                                     | An interactive story visualization tool that support multiple characters.                                                                                                                      |              | Animation |
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)                                                 | Accurately Lip-syncing Videos In The Wild.                                                                                                                                                     |              | Animation |
 | [Wonder Studio](https://wonderdynamics.com/)                                                   | An AI tool that automatically animates, lights and composes CG characters into a live-action scene.                                                                                        |              | Animation |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="visual">Visual</span>
 
@@ -442,6 +462,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [LLaVA++](https://github.com/mbzuai-oryx/LLaVA-pp)                                          | Extending Visual Capabilities with LLaMA-3 and Phi-3.                                                                                                                                          |              |   Visual  
 | [PLLaVA](https://github.com/magic-research/PLLaVA)                                          | Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning.                                                                                                               |              |   Visual  |
 | [Vitron](https://github.com/SkyworkAI/Vitron)                                               | A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing.                                                                                                           |              |   Visual  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="video">Video</span>
 
@@ -551,6 +573,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [V-JEPA](https://github.com/facebookresearch/jepa)                                             | Video Joint Embedding Predictive Architecture.                                                                                                                                                 |              |   Video   |
 | [W.A.L.T](https://walt-video-diffusion.github.io/)                                             | Photorealistic Video Generation with Diffusion Models.                                                                                                                                         |              |   Video   |
 | [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)                                  | Zeroscope Text-to-Video.                                                                                                                                                                       |              |   Video   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="audio">Audio</span>
 
@@ -575,6 +599,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Stable Audio](https://www.stableaudio.com/)                                                   | Fast Timing-Conditioned Latent Audio Diffusion.                                                                                                                                                |              |   Audio   |
 | [TANGO](https://github.com/declare-lab/tango)                                                  | Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model.                                                                                                               |              |   Audio   |
 | [WavJourney](https://github.com/Audio-AGI/WavJourney)                                          | Compositional Audio Creation with Large Language Models.                                                                                                                                       |              |   Audio   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="music">Music</span>
 
@@ -599,6 +625,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)                          | Generating Music From Text.                                                                                                                                                                    |              |   Music   |
 | [Riffusion App](https://github.com/riffusion/riffusion-app)                                    | Riffusion is an app for real-time music generation with stable diffusion.                                                                                                                      |              |   Music   |
 | [SoundRaw](https://soundraw.io/)                                                               | AI music generator for creators.                                                                                                                                                               |              |   Music   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="voice">Singing Voice</span>
 
@@ -608,6 +636,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)                                     | An easy-to-use SVC framework based on VITS.                                                                                                |              |   Singing Voice   |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                 | SoftVC VITS Singing Voice Conversion.                                                                                                                                                          |              |   Singing Voice   |
 | [VI-SVS](https://github.com/PlayVoice/VI-SVS)                                                  | Use VITS and Opencpop to develop singing voice synthesis; Different from VISinger.                                                                                                             |              |   Singing Voice   |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="speech">Speech</span>
 
@@ -650,12 +680,16 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [XTTS](https://github.com/coqui-ai/TTS)                                                        | XTTS is a library for advanced Text-to-Speech generation.                                                                                                                                      |              |  Speech  |
 | [YourTTS](https://github.com/Edresson/YourTTS)                                                 | Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.                                                                                                               |              |  Speech  |
 | [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS)                                         | Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.                                                                     |              |  Speech  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="speech">Analytics</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 ## <span id="video_tool">Video Tool</span>
 
@@ -665,4 +699,6 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | [FaceHi](https://m.facehi.ai/)                                                              | It is Better to Track Together.                                                                                                                                                                |               | Video Tool |
 | [LGVI](https://jianzongwu.github.io/projects/rovi/)                                         | Towards Language-Driven Video Inpainting via Multimodal Large Language Models.                                                                                                                 |               | Video Tool |
 | [MaskViT](https://maskedvit.github.io/)                                                     | Masked Visual Pre-Training for Video Prediction.                                                                                                                                               |               | Video Tool |
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
