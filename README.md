@@ -4,7 +4,7 @@
   <img src="AI-Game.png" alt="AI-Game" style="display:block; margin:auto; width:580px;" />
 </p>
 
-Here we will keep track of the AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
+Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 
 ## Table of Contents
 
@@ -248,8 +248,8 @@ Here we will keep track of the AI Game Development Tools, including LLM, Agent, 
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
 | [AnyDoor](https://ali-vilab.github.io/AnyDoor-Page/)                                           | Zero-shot Object-level Image Customization.                                                                                     |[arXiv](https://arxiv.org/abs/2307.09481)  |              |   Image   |
 | [AnyText](https://github.com/tyxsspa/AnyText)                                                  | Multilingual Visual Text Generation And Editing.                                                                                |[arXiv](https://arxiv.org/abs/2311.03054)  |              |   Image   |
-| [Blender-ControlNet](https://github.com/coolzilj/Blender-ControlNet)                           | Using ControlNet right in Blender.                                                                                               |                                          |    Blender    |   Image   |
-| [BriVL](https://github.com/BAAI-WuDao/BriVL)                                                   | Bridging Vision and Language Model.                                                                                                                                            |                 |              |   Image   |
+| [Blender-ControlNet](https://github.com/coolzilj/Blender-ControlNet)                           | Using ControlNet right in Blender.                                                                                              |                                          |    Blender    |   Image   |
+| [BriVL](https://github.com/BAAI-WuDao/BriVL)                                                   | Bridging Vision and Language Model.                                                                                             |[arXiv](https://arxiv.org/abs/2103.06561)  |              |   Image   |
 | [CLIPasso](https://github.com/yael-vinker/CLIPasso)                                            | A method for converting an image of an object to a sketch, allowing for varying levels of abstraction.                                                              |       |              |   Image   |
 | [ClipDrop](https://clipdrop.co/)                                                               | Create stunning visuals in seconds.                                                                                                                                                      |        |              |   Image   |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                           | A powerful and modular stable diffusion GUI with a graph/nodes interface.                                                                                                               |         |              |   Image   |
