@@ -1,4 +1,4 @@
-# AI Game Development Tools (AI-GDT) 🎮
+# AI Game DevTools (AI-GDT) 🎮
 
 <p align="center">
   <img src="AI-Game.png" alt="AI-Game" style="display:block; margin:auto; width:580px;" />
