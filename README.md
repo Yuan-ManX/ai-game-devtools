@@ -393,7 +393,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [ViVid-1-to-3](https://github.com/ubc-vision/vivid123)                                         | Novel View Synthesis with Video Diffusion Models.                                                                               |[arXiv](https://arxiv.org/abs/2312.01305)  |              |   3D   |
 | [Voxcraft](https://voxcraft.ai/)                                                               | Crafting Ready-to-Use 3D Models with AI.                                                                                                               |                                           |              |   3D   |
 | [Wonder3D](https://github.com/xxlong0/Wonder3D)                                                | Single Image to 3D using Cross-Domain Diffusion.                                                                                |[arXiv](https://arxiv.org/abs/2310.15008)  |              |   3D   |
-| [Zero-1-to-3](https://github.com/cvlab-columbia/zero123)                                       | Zero-shot One Image to 3D Object.                                                                                                                        |                                         |              |   Model   |
+| [Zero-1-to-3](https://github.com/cvlab-columbia/zero123)                                       | Zero-shot One Image to 3D Object.                                                                                               |[arXiv](https://arxiv.org/abs/2303.11328)  |              |   Model   |
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
