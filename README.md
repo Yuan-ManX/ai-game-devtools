@@ -632,6 +632,8 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)                          | Generating Music From Text.                                                                                                | [arXiv](https://arxiv.org/abs/2301.11325)      |              |   Music   |
 | [Riffusion App](https://github.com/riffusion/riffusion-app)                                    | Riffusion is an app for real-time music generation with stable diffusion.                                                                                           |                              |              |   Music   |
 | [SoundRaw](https://soundraw.io/)                                                               | AI music generator for creators.                                                                                                                                     |                             |              |   Music   |
+| [Soundry AI](https://soundry.ai/)                                                               | Generative AI tools including text-to-sound and infinite sample packs.                                                                                               |                             |              |   Music   |
+
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
