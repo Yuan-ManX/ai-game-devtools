@@ -25,7 +25,6 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 * [Singing Voice](#voice)
 * [Speech](#speech)
 * [Analytics](#analytics)
-* [Video Tool](#video_tool)
 
 
 ## Project List
@@ -462,7 +461,11 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | Source                                                                                      | Description                                                                                                                                                                                    |   Paper   |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
 | [CogVLM2](https://github.com/THUDM/CogVLM2)                                                 | GPT4V-level open-source multi-modal model based on Llama3-8B.                                                                                       |                           |              |   Visual  |
+| [CoTracker](https://co-tracker.github.io/)                                                  | It is Better to Track Together.                                                                                                                       |                                            |               | Visual |
+| [FaceHi](https://m.facehi.ai/)                                                              | It is Better to Track Together.                                                                                                                       |                                           |               | Visual |
+| [LGVI](https://jianzongwu.github.io/projects/rovi/)                                         | Towards Language-Driven Video Inpainting via Multimodal Large Language Models.                                                                         |                                           |               | Visual |
 | [LLaVA++](https://github.com/mbzuai-oryx/LLaVA-pp)                                          | Extending Visual Capabilities with LLaMA-3 and Phi-3.                                                                                                     |                                     |              |   Visual  |
+| [MaskViT](https://maskedvit.github.io/)                                                     | Masked Visual Pre-Training for Video Prediction.                                                                                                           |                                      |               | Visual |
 | [MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V)                                | A GPT-4V Level MLLM on Your Phone.                                                                                                                        |                                      |              |   Visual  |
 | [MotionLLM](https://github.com/IDEA-Research/MotionLLM)                                     | Understanding Human Behaviors from Human Motions and Videos.                                                                          |[arXiv](https://arxiv.org/abs/2405.20340)  |              |   Visual  |
 | [PLLaVA](https://github.com/magic-research/PLLaVA)                                          | Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning.                                                      |[arXiv](https://arxiv.org/abs/2404.16994)  |              |   Visual  |
@@ -701,17 +704,6 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
-
-## <span id="video_tool">Video Tool</span>
-
-| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [CoTracker](https://co-tracker.github.io/)                                                  | It is Better to Track Together.                                                                                                                                                                |               | Video Tool |
-| [FaceHi](https://m.facehi.ai/)                                                              | It is Better to Track Together.                                                                                                                                                                |               | Video Tool |
-| [LGVI](https://jianzongwu.github.io/projects/rovi/)                                         | Towards Language-Driven Video Inpainting via Multimodal Large Language Models.                                                                                                                 |               | Video Tool |
-| [MaskViT](https://maskedvit.github.io/)                                                     | Masked Visual Pre-Training for Video Prediction.                                                                                                                                               |               | Video Tool |
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
