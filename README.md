@@ -349,6 +349,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [Text2Tex](https://daveredrum.github.io/Text2Tex/)                                             | Text-driven texture Synthesis via Diffusion Models.                                                                             |[arXiv](https://arxiv.org/abs/2303.11396)  |              |  Texture  |
 | [Texture Lab](https://www.texturelab.xyz/)                                                     | AI-generated texures. You can generate your own with a text prompt.                                                                                     |                                             |              |  Texture  |
 | [With Poly](https://withpoly.com/browse/textures)                                              | Create Textures With Poly. Generate 3D materials with AI in a free online editor, or search our growing community library.                          |                                            |              |  Texture  |
+| [X-Mesh](https://github.com/xmu-xiaoma666/X-Mesh)                                              | X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance.                             |[arXiv](https://arxiv.org/abs/2303.15764)  |              |  Texture  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
