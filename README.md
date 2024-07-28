@@ -538,6 +538,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [VideoLLaMA 2](https://github.com/DAMO-NLP-SG/VideoLLaMA2)                                  | Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs.                                                            |[arXiv](https://arxiv.org/abs/2406.07476)  |              |   Visual  |
 | [Video-MME](https://github.com/BradyFU/Video-MME)                                           | The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis.                                              |[arXiv](https://arxiv.org/abs/2405.21075)  |              |   Visual  |
 | [Vitron](https://github.com/SkyworkAI/Vitron)                                               | A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing.                                                                      |                                      |              |   Visual  |
+| [VILA](https://github.com/NVlabs/VILA)                                                      | VILA: On Pre-training for Visual Language Models.                                                                                     |[arXiv](https://arxiv.org/abs/2312.07533)  |              |   Visual  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
