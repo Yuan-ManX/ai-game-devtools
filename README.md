@@ -253,6 +253,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [StarCoder](https://github.com/bigcode-project/starcoder)                                      | 💫 StarCoder is a language model (LM) trained on source code and natural language text.                                      |[arXiv](https://arxiv.org/abs/2305.06161)    |              |   Code   |
 | [StarCoder 2](https://github.com/bigcode-project/starcoder2)                                   | StarCoder2 is a family of code generation models (3B, 7B, and 15B), trained on 600+ programming languages from The Stack v2 and some natural language text such as Wikipedia, Arxiv, and GitHub issues.   |[arXiv](https://arxiv.org/abs/2402.19173)    |              |   Code   |
 | [UnityGen AI](https://github.com/himanshuskyrockets/UnityGen-AI)                               | UnityGen AI is an AI-powered code generation plugin for Unity.                                                                                                 |                                   |     Unity     |   Code   |
+| [Void](https://github.com/voideditor/void)                                                     | Void is an open source Cursor alternative. Write code with the best AI tools, retain full control over your data, and access powerful AI features.             |                                               |              |   Code   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
