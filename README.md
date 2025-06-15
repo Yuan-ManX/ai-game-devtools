@@ -158,6 +158,8 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [XAgent](https://github.com/OpenBMB/XAgent)                                                    | An Autonomous LLM Agent for Complex Task Solving.                                                                                                                                              |          |              |   Tool   |
 | [Yi](https://github.com/01-ai/Yi)                                                              | A series of large language models trained from scratch by developers.                                                                                                                          |          |              |   Tool   |
 | [01 Project](https://github.com/OpenInterpreter/01)                                            | The open-source language model computer.                                                                                                                                                       |          |              |   Tool   | 
+| [SimpleOllamaUnity](https://github.com/HardCodeDev777/SimpleOllamaUnity)                       | Ollama integration for Unity Engine (works in runtime and editor)                                                                                                                              |          |     Unity    |   Tool   |
+
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
