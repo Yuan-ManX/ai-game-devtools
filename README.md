@@ -877,6 +877,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [XTTS](https://github.com/coqui-ai/TTS)                                                        | XTTS is a library for advanced Text-to-Speech generation.                                                                                  |                                                      |              |  Speech  |
 | [YourTTS](https://github.com/Edresson/YourTTS)                                                 | Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.                                           | [arXiv](https://arxiv.org/abs/2112.02418)      |              |  Speech  |
 | [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS)                                         | Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.  | [arXiv](https://arxiv.org/abs/2312.14398)      |              |  Speech  |
+| [UnityNeuroSpeech](https://github.com/HardCodeDev777/UnityNeuroSpeech)                         | The world’s first game framework that lets you talk to AI in real time — locally.                                                                                                                                                      |          |     Unity    |   Speech  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
