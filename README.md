@@ -11,7 +11,6 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 * [Tool (AI LLM)](#tool)
 * [Game (Agent)](#game)
 * [Code](#code)
-* [Writer](#writer)
 * [Image](#image)
 * [Texture](#texture)
 * [Shader](#shader)
@@ -163,6 +162,10 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [Yi](https://github.com/01-ai/Yi)                                                              | A series of large language models trained from scratch by developers.                                                                                                                          |          |              |   Tool   |
 | [01 Project](https://github.com/OpenInterpreter/01)                                            | The open-source language model computer.                                                                                                                                                       |          |              |   Tool   | 
 | [SimpleOllamaUnity](https://github.com/HardCodeDev777/SimpleOllamaUnity)                       | Ollama integration for Unity Engine (works in runtime and editor)                                                                                                                              |          |     Unity    |   Tool   |
+| [AI-Writer](https://github.com/BlinkDL/AI-Writer)                                              | AI writes novels, generates fantasy and romance web articles, etc. Chinese pre-trained generative model.                                                                                    |               |              |  Writer  |
+| [Notebook.ai](https://github.com/indentlabs/notebook)                                          | Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them.                                                  |               |              |  Writer  |
+| [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                                   |               |              |  Writer  |
+| [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                 |               |              |  Writer  |
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
@@ -278,18 +281,6 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 | [StarCoder 2](https://github.com/bigcode-project/starcoder2)                                   | StarCoder2 is a family of code generation models (3B, 7B, and 15B), trained on 600+ programming languages from The Stack v2 and some natural language text such as Wikipedia, Arxiv, and GitHub issues.   |[arXiv](https://arxiv.org/abs/2402.19173)    |              |   Code   |
 | [UnityGen AI](https://github.com/himanshuskyrockets/UnityGen-AI)                               | UnityGen AI is an AI-powered code generation plugin for Unity.                                                                                                 |                                   |     Unity     |   Code   |
 | [Void](https://github.com/voideditor/void)                                                     | Void is an open source Cursor alternative. Write code with the best AI tools, retain full control over your data, and access powerful AI features.             |                                               |              |   Code   |
-
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
-
-## <span id="writer">Writer</span>
-
-| Source                                                                                      | Description                                                                                                                                                                                    |   Paper   |  Game Engine  |   Type   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
-| [AI-Writer](https://github.com/BlinkDL/AI-Writer)                                              | AI writes novels, generates fantasy and romance web articles, etc. Chinese pre-trained generative model.                                                                      |               |              |  Writer  |
-| [Notebook.ai](https://github.com/indentlabs/notebook)                                          | Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them.                                    |               |              |  Writer  |
-| [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                     |               |              |  Writer  |
-| [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                   |               |              |  Writer  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
