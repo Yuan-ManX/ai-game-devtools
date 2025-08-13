@@ -8,8 +8,8 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 
 ## Table of Contents
 
-* [Tool (AI LLM)](#tool)
-* [Game (Agent)](#game)
+* [LLM (LLM & Tool)](#tool)
+* [Game (World Model & Agent)](#game)
 * [Code](#code)
 * [Image](#image)
 * [Texture](#texture)
@@ -171,7 +171,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
-## <span id="game">Game (Agent)</span>
+## <span id="game">Game (World Model & Agent)</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |   Paper   |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
