@@ -9,7 +9,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 ## Table of Contents
 
 * [LLM (LLM & Tool)](#tool)
-* [VLM(Visual)](#visual)
+* [VLM (Visual)](#visual)
 * [Game (World Model & Agent)](#game)
 * [Code](#code)
 * [Image](#image)
@@ -171,7 +171,7 @@ Here we will keep track of the latest AI Game Development Tools, including LLM, 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
-## <span id="visual">VLM(Visual)</span>
+## <span id="visual">VLM (Visual)</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |   Paper   |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
