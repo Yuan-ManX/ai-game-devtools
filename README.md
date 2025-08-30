@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuan-manx-ai-game-devtools-badge.png)](https://mseep.ai/app/yuan-manx-ai-game-devtools)
+
 # AI Game DevTools (AI-GDT) 🎮
 
 <p align="center">
