@@ -1,10 +1,13 @@
+<div align="center">
+
+<img src="./assets/AI Game DevTools.png" alt="AI Game DevTools">
+
 # AI Game DevTools (AI-GDT) 🎮
 
-<p align="center">
-  <img src="AI-Game.png" alt="AI-Game" style="display:block; margin:auto; width:580px;" />
-</p>
-
 Here we will keep track of the latest AI Game Development Tools, including LLM, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
+
+</div>
+
 
 ## Table of Contents
 
