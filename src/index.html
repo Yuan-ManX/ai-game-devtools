@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Game DevTools - AI-Powered Game Development Tools Collection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">
+                <div class="nav-avatar">🎮</div>
+                <span>AI Game DevTools</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#categories">AI Game</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="https://github.com/derrick-desktop/ai-game-devtools" target="_blank" class="nav-cta">GitHub</a></li>
+            </ul>
+            <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-bg">
+            <div class="grid-overlay"></div>
+            <div class="glow-orb orb-1"></div>
+            <div class="glow-orb orb-2"></div>
+            <div class="glow-orb orb-3"></div>
+        </div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="badge-dot"></span>
+                <span>Curated Collection of AI Game DevTools</span>
+            </div>
+            <h1 class="hero-title">
+                <span class="title-top">AI Game DevTools</span>
+                <span class="title-bottom">Your <span class="gradient-text">AI Game Dev</span> Hub</span>
+            </h1>
+            <p class="hero-subtitle">
+                The ultimate resource hub for AI-powered game development tools. 
+                Discover cutting-edge LLMs, world models, 3D generators, animation tools, and more.
+            </p>
+            <div class="hero-cta">
+                <a href="#categories" class="btn btn-primary">
+                    <span>Explore Tools</span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M5 12h14M12 5l7 7-7 7"/>
+                    </svg>
+                </a>
+                <a href="https://github.com/derrick-desktop/ai-game-devtools" target="_blank" class="btn btn-secondary">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    <span>Star on GitHub</span>
+                </a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <span class="stat-number" data-count="500">0</span>
+                    <span class="stat-suffix">+</span>
+                    <span class="stat-label">Tools</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-count="5">0</span>
+                    <span class="stat-suffix">+</span>
+                    <span class="stat-label">Categories</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" data-count="9">0</span>
+                    <span class="stat-suffix">+</span>
+                    <span class="stat-label">Directions</span>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <div class="scroll-mouse">
+                <div class="scroll-wheel"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Category Navigation -->
+    <section class="category-nav" id="categories">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Browse by Category</span>
+                <h2 class="section-title">AI Tools for Every Stage of Game Development</h2>
+            </div>
+            <div class="category-grid" id="categoryGrid">
+                <!-- Categories will be populated by JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Tools Display Section -->
+    <section class="tools-section" id="toolsSection">
+        <div class="container">
+            <div class="tools-header">
+                <div class="tools-title-group">
+                    <h2 class="tools-title" id="currentCategoryTitle">All Tools</h2>
+                    <span class="tools-count" id="toolsCount">0 tools</span>
+                </div>
+                <div class="tools-controls">
+                    <div class="search-box">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+                        </svg>
+                        <input type="text" id="searchInput" placeholder="Search tools...">
+                    </div>
+                    <div class="filter-group">
+                        <select id="engineFilter">
+                            <option value="">All Engines</option>
+                            <option value="Unity">Unity</option>
+                            <option value="Unreal Engine">Unreal Engine</option>
+                            <option value="Blender">Blender</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="tools-grid" id="toolsGrid">
+                <!-- Tools will be populated by JS -->
+            </div>
+            <div class="load-more" id="loadMoreContainer">
+                <button class="btn btn-outline" id="loadMoreBtn">Load More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about-section" id="about">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-content">
+                    <span class="section-tag">About</span>
+                    <h2 class="section-title">Empowering Game Developers with AI</h2>
+                    <p>
+                        AI Game DevTools (AI-GDT) is a curated collection of the latest AI-powered game development tools. 
+                        From LLMs and world models to 3D generation and animation, we track the most innovative 
+                        technologies shaping the future of game development.
+                    </p>
+                    <p>
+                        Whether you're an indie developer or part of a AAA studio, discover tools that can 
+                        accelerate your workflow and unlock new creative possibilities.
+                    </p>
+                    <div class="about-features">
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                                </svg>
+                            </div>
+                            <div class="feature-text">
+                                <h4>Comprehensive</h4>
+                                <p>15+ categories covering every aspect of game dev</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
+                                </svg>
+                            </div>
+                            <div class="feature-text">
+                                <h4>Up-to-date</h4>
+                                <p>Regularly updated with the latest tools</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
+                                </svg>
+                            </div>
+                            <div class="feature-text">
+                                <h4>Community-driven</h4>
+                                <p>Open source and community maintained</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-visual">
+                    <div class="visual-card">
+                        <div class="card-glow"></div>
+                        <div class="about-avatar">🎮</div>
+                        <div class="about-title">AI Game DevTools</div>
+                        <div class="about-subtitle">AI-Powered Game Development</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <div class="footer-avatar">🎮</div>
+                    <p>Curated collection of AI-powered game development tools.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#hero">Home</a></li>
+                        <li><a href="#categories">Categories</a></li>
+                        <li><a href="https://github.com/derrick-desktop/ai-game-devtools" target="_blank">GitHub</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Categories</h4>
+                    <ul>
+                        <li><a href="#toolsSection" data-cat="llm">LLM & Tools</a></li>
+                        <li><a href="#toolsSection" data-cat="game">World Models</a></li>
+                        <li><a href="#toolsSection" data-cat="model">3D Models</a></li>
+                        <li><a href="#toolsSection" data-cat="animation">Animation</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> AI Game DevTools. Open source project.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to top -->
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 15l-6-6-6 6"/>
+        </svg>
+    </button>
+
+    <script src="app.js"></script>
+</body>
+</html>
