@@ -4,9 +4,14 @@
 
 # AI Game DevTools (AI-GDT) 🎮
 
-Your AI Game Dev Hub.
+### Your AI Game Dev Hub. 🚀
 
 The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Stars](https://img.shields.io/github/stars/Yuan-ManX/ai-game-devtools?style=social)
+
 
 </div>
 
