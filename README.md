@@ -12,6 +12,7 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Stars](https://img.shields.io/github/stars/Yuan-ManX/ai-game-devtools?style=social)
 
+### [Website](https://yuan-manx.github.io/ai-game-devtools/) | [网站](https://yuan-manx.github.io/ai-game-devtools/)
 
 </div>
 
