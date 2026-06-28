@@ -76,6 +76,7 @@ const toolsData = {
         { name: 'CodeGeeX4', url: 'https://github.com/THUDM/CodeGeeX4', description: 'Open Multilingual Code Generation Model.', paper: '', engine: '', type: 'Code' },
         { name: 'Qwen2.5-Coder', url: 'https://github.com/QwenLM/Qwen2.5-Coder', description: 'Code version of Qwen2.5 large language model.', paper: 'https://arxiv.org/abs/2409.12186', engine: '', type: 'LLM' },
         { name: 'UnityGen AI', url: 'https://github.com/himanshuskyrockets/UnityGen-AI', description: 'AI-powered code generation plugin for Unity.', paper: '', engine: 'Unity', type: 'Code' },
+        { name: 'Roblox GUI Maker', url: 'https://robloxguimaker.dev/', description: 'Generate Roblox Studio GUI layouts and Lua starter code from prompts.', paper: '', engine: 'Roblox', type: 'Code' },
         { name: 'Void', url: 'https://github.com/voideditor/void', description: 'Open source Cursor alternative with full data control.', paper: '', engine: '', type: 'Code' }
     ],
     image: [
