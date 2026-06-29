@@ -180,6 +180,7 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [Notebook.ai](https://github.com/indentlabs/notebook)                                          | Notebook.ai is a set of tools for writers, game designers, and roleplayers to create magnificent universes – and everything within them.                                                  |               |              |  Writer  |
 | [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                                   |               |              |  Writer  |
 | [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                 |               |              |  Writer  |
+| [Auferet](https://auferet.com/) | An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory of your story and your own uploaded lore. |  |  | Writer |
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
