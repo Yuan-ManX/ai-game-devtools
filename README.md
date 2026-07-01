@@ -181,6 +181,12 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [Novel](https://github.com/steven-tey/novel)                                                   | Notion-style WYSIWYG editor with AI-powered autocompletions.                                                                                                                                   |               |              |  Writer  |
 | [NovelAI](https://novelai.net/)                                                                | Driven by AI, painlessly construct unique stories, thrilling tales, seductive romances, or just fool around.                                                                                 |               |              |  Writer  |
 | [Auferet](https://auferet.com/) | An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory of your story and your own uploaded lore. |  |  | Writer |
+| [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools. |  | Unity | Tool |
+| [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) | Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#). |  | Godot | Tool |
+| [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) | Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar). |  | Unreal Engine | Tool |
+| [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) | Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP. |  | Unity/Godot/Unreal Engine | Tool |
+| [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) | Open-source .NET library/SDK that turns any .NET application into an MCP server. |  |  | Tool |
+| [ReflectorNet](https://github.com/IvanMurzak/ReflectorNet) | Open-source .NET reflection toolkit for AI-driven scenarios. |  |  | Tool |
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
