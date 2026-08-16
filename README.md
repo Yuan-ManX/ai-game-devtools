@@ -43,6 +43,7 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 
 | Source                                                                                      | Description                                                                                                                                                                                    |   Paper   |  Game Engine  |   Type   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
+| [Agent QA](https://github.com/vostride/agent-qa)                                               | Open Source self-improving QA agent for software teams that runs natural-language web and mobile tests.                                                                                         |          |              |   Tool   |
 | [AgentGPT](https://github.com/reworkd/AgentGPT)                                                | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.                                                                                                                      |          |              |   Tool   |
 | [AICommand](https://github.com/keijiro/AICommand)                                              | ChatGPT integration with Unity Editor.                                                                                                                                                         |          |     Unity    |   Tool   |
 | [AIOS](https://github.com/agiresearch/AIOS)                                                    | LLM Agent Operating System.                                                                                                                                                                    |          |              |   Tool   |
@@ -973,4 +974,3 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
