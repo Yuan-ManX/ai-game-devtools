@@ -34,7 +34,6 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 * [Music](#music)
 * [Singing Voice](#voice)
 * [Speech](#speech)
-* [Analytics](#analytics)
 
 
 ## Project List
@@ -419,6 +418,7 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion)                             | Transparent Image Layer Diffusion using Latent Transparency.                                                                    |[arXiv](https://arxiv.org/abs/2305.18676)  |              |   Image   |
 | [Lexica](https://lexica.art/)                                                                  | A Stable Diffusion prompts search engine.                                                                                                                                           |             |              |   Image   |
 | [LlamaGen](https://github.com/FoundationVision/LlamaGen)                                       | Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation.                                                      |[arXiv](https://arxiv.org/abs/2406.06525)  |              |   Image   |
+| [Ludo.ai](https://ludo.ai/)                                                                    | AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. MCP server, REST API and Unity plugin.                                                          |             |     Unity    |   Image   |
 | [Lumina-Image 2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0)                             | Lumina-Image 2.0 : A Unified and Efficient Image Generative Model.                                                                                                                  |             |              |   Image   |
 | [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT)                                       | Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.               |[arXiv](https://arxiv.org/abs/2408.02657)  |              |   Image   |
 | [MakeAnything](https://github.com/showlab/MakeAnything)                                        | MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation.                           |[arXiv](https://arxiv.org/abs/2502.01572)  |              |   Image   |
@@ -962,15 +962,6 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS)                                         | Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.  | [arXiv](https://arxiv.org/abs/2312.14398)     |              |  Speech  |
 | [UniAudio 2.0](https://github.com/yangdongchao/UniAudio2)                                      | UniAudio 2.0: A Multi-task Audio Foundation Model with Reasoning-Augmented Audio Tokenization.                                   |                                                      |              |  Speech  |
 | [UnityNeuroSpeech](https://github.com/HardCodeDev777/UnityNeuroSpeech)                         | The world’s first game framework that lets you talk to AI in real time — locally.                                                                                |          |     Unity    |   Speech  |
-
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
-
-## <span id="speech">Analytics</span>
-
-| Source                                                                                      | Description                                                                                                                                                                                    |  Game Engine  |   Type   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [Ludo.ai](https://ludo.ai/)                                                        | Assistant for game research and design.                                                                                                                        |              |  Analytics  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
