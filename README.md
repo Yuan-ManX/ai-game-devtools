@@ -852,7 +852,7 @@ The ultimate resource hub for AI-powered game development tools. Discover cuttin
 | [ThinkSound](https://github.com/FunAudioLLM/ThinkSound)                                        | ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing.           |[arXiv](https://arxiv.org/abs/2506.21448)      |              |   Audio   |
 | [VTA-LDM](https://github.com/ariesssxu/vta-ldm)                                                | Video-to-Audio Generation with Hidden Alignment.                                                                            |[arXiv](https://arxiv.org/abs/2407.07464)      |              |   Audio   |
 | [WavJourney](https://github.com/Audio-AGI/WavJourney)                                          | Compositional Audio Creation with Large Language Models.                                                                    |[arXiv](https://arxiv.org/abs/2307.14335)      |              |   Audio   |
-
+| [CICA AUDIO](https://cicaaudio.com/) | AI sound effects for games and UI. Analyzes gameplay recordings, detects visual events, generates matching sound effects, and syncs them on an editable timeline for WAV export. | | | Audio |
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
