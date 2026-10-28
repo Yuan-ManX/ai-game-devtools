@@ -112,6 +112,7 @@ const toolsData = {
         { name: 'Wonder3D', url: 'https://github.com/xxlong0/Wonder3D', description: 'Single Image to 3D using Cross-Domain Diffusion.', paper: 'https://arxiv.org/abs/2310.15008', engine: '', type: '3D' },
         { name: 'Unique3D', url: 'https://github.com/AiuniAI/Unique3D', description: 'High-Quality 3D Mesh Generation from a Single Image.', paper: 'https://arxiv.org/abs/2405.20343', engine: '', type: '3D' },
         { name: 'CSM', url: 'https://www.csm.ai/', description: 'Generate 3D worlds from images and videos.', paper: '', engine: '', type: '3D' },
+    { name: '3D-Agent', url: 'https://3d-agent.com/blender-ai', description: 'Desktop AI agent that models, textures, lights, animates and renders in Blender from plain-language prompts.', paper: '', engine: 'Blender', type: 'Model' },
         { name: 'Spline AI', url: 'https://spline.design/ai', description: 'Generate objects, animations, and textures using prompts.', paper: '', engine: '', type: 'Model' }
     ],
     avatar: [
