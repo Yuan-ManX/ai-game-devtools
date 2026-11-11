@@ -93,7 +93,6 @@ const toolsData = {
     ],
     texture: [
         { name: 'Dream Textures', url: 'https://github.com/carson-katri/dream-textures', description: 'Stable Diffusion built-in to Blender for texture creation.', paper: '', engine: 'Blender', type: 'Texture' },
-        { name: 'Texture Lab', url: 'https://www.texturelab.xyz/', description: 'AI-generated textures with text prompts.', paper: '', engine: '', type: 'Texture' },
         { name: 'With Poly', url: 'https://withpoly.com/browse/textures', description: 'Generate 3D materials with AI in a free online editor.', paper: '', engine: '', type: 'Texture' },
         { name: 'Polycam', url: 'https://poly.cam/material-generator', description: 'Create your own 3D textures just by typing.', paper: '', engine: '', type: 'Texture' },
         { name: 'Text2Tex', url: 'https://daveredrum.github.io/Text2Tex/', description: 'Text-driven texture Synthesis via Diffusion Models.', paper: 'https://arxiv.org/abs/2303.11396', engine: '', type: 'Texture' },
@@ -111,7 +110,6 @@ const toolsData = {
         { name: 'Point·E', url: 'https://github.com/openai/point-e', description: 'Point cloud diffusion for 3D model synthesis.', paper: '', engine: '', type: 'Model' },
         { name: 'Wonder3D', url: 'https://github.com/xxlong0/Wonder3D', description: 'Single Image to 3D using Cross-Domain Diffusion.', paper: 'https://arxiv.org/abs/2310.15008', engine: '', type: '3D' },
         { name: 'Unique3D', url: 'https://github.com/AiuniAI/Unique3D', description: 'High-Quality 3D Mesh Generation from a Single Image.', paper: 'https://arxiv.org/abs/2405.20343', engine: '', type: '3D' },
-        { name: 'CSM', url: 'https://www.csm.ai/', description: 'Generate 3D worlds from images and videos.', paper: '', engine: '', type: '3D' },
         { name: 'Spline AI', url: 'https://spline.design/ai', description: 'Generate objects, animations, and textures using prompts.', paper: '', engine: '', type: 'Model' }
     ],
     avatar: [
